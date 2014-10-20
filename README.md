@@ -2,7 +2,7 @@
 
 My regular OSX installation.
 
-* [Development environment](#dev)
+* [Development environment](#dev-env)
     * [Git](#git)
     * [IDE](#ide)
     * [Command-line configuration](#command-line-config)
@@ -24,17 +24,86 @@ My regular OSX installation.
 
 [Atom](https://atom.io/)
 
+* [Darkula UI](https://atom.io/packages/darkula-ui)
+* [Darkula Syntax](https://atom.io/packages/darkula-syntax)
+
 [PHPStorm](https://www.jetbrains.com/phpstorm/download/)
+
+* *Darcula* theme
+* *Mac OS X* keymap
 
 ### <a name="command-line-config"></a>Command-line configuration
 
-[Oh My ZSH](http://ohmyz.sh)
+[Oh My ZSH](http://ohmyz.sh) - An open source framework for managing your ZSH configuration
 
-@todo dotfiles (.zshrc, git, etc)
+`.zshrc`:
 
-140x40 Terminal (@todo theme export)
+    alias fixairplay="sudo kill `ps -ax | grep 'coreaudiod' | grep 'sbin' |awk '{print $1}'`"
 
-http://code.tutsplus.com/tutorials/how-to-customize-your-command-prompt--net-24083
+    alias composer="php /usr/bin/composer.phar"
+    alias hosts="atom /etc/hosts & atom /etc/apache2/httpd.conf"
+    alias nw="/Applications/node-webkit.app/Contents/MacOS/node-webkit"
+
+    alias php56='homebrewphp php56'
+    alias php55='homebrewphp php55'
+    alias php54='homebrewphp php54'
+    alias php53='homebrewphp php53'
+
+    function homebrewphp
+    {
+        versions=`brew list | grep "php"`
+        for version in $versions
+        do
+            brew unlink $version
+        done
+        brew link $1
+        ln -f -s "/usr/local/opt/$1/libexec/apache2/libphp5.so" ~/.libphp5.so
+        sudo apachectl restart
+        echo "PHP version enabled: $1"
+    }
+
+`johan.zsh-theme`:
+
+    function git_prompt_info() {
+      ref=$(git symbolic-ref HEAD 2> /dev/null) || return
+      echo "$(parse_git_dirty)$ZSH_THEME_GIT_PROMPT_PREFIX$(current_branch)$ZSH_THEME_GIT_PROMPT_SUFFIX"
+    }
+
+    function get_pwd() {
+      print -D $PWD
+    }
+
+    function put_spacing() {
+      local git=$(git_prompt_info)
+      if [ ${#git} != 0 ]; then
+        ((git=${#git} - 10))
+      else
+        git=0
+      fi
+
+      local termwidth
+      (( termwidth = ${COLUMNS} - 3 - ${#HOST} - ${#$(get_pwd)} - ${git} ))
+
+      local spacing=""
+      for i in {1..$termwidth}; do
+        spacing="${spacing} "
+      done
+      echo $spacing
+    }
+
+    function precmd() {
+    print -rP '
+    $fg[cyan]%m: $fg[yellow]$(get_pwd)$(put_spacing)$(git_prompt_info)'
+    }
+
+    PROMPT='%{$reset_color%}→ '
+
+    ZSH_THEME_GIT_PROMPT_PREFIX="[git:"
+    ZSH_THEME_GIT_PROMPT_SUFFIX="]$reset_color"
+    ZSH_THEME_GIT_PROMPT_DIRTY="$fg[red]+"
+    ZSH_THEME_GIT_PROMPT_CLEAN="$fg[green]"
+
+@todo export terminal theme
 
 ### <a name="misc-tools"></a>Misc tools
 
@@ -42,13 +111,15 @@ http://code.tutsplus.com/tutorials/how-to-customize-your-command-prompt--net-240
 
 [Composer](https://getcomposer.org/download/) - Dependency Manager for PHP
 
-[NodeJS](http://nodejs.org/) - A cross-platform Javascript runtime environment
+[node.js](http://nodejs.org/) - A cross-platform Javascript runtime environment
 
 [Bower](http://bower.io/) - A package manager for the web
 
 [Grunt](http://gruntjs.com/) - The JavaScript task runner
 
 [Gulp](http://gulpjs.com/) - The streaming build system
+
+[node-webkit](https://github.com/rogerwang/node-webkit) - an app runtime based on Chromium and node.js
 
 ## <a name="internet"></a>Internet tools
 
