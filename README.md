@@ -1,25 +1,14 @@
-# OSX Bootstrap
+# OSX Webdev Bootstrap
 
-My regular OSX installation.
+My regular web dev installation.
 
-* [Development environment](#dev-env)
-    * [Git](#git)
-    * [IDE](#ide)
-    * [Command-line tools](#command-line-tools)
-    * [Dotfiles](#dotfiles)
-    * [Misc tools](#misc-tools)
-* [Internet tools](#internet)
+* [IDE](#ide)
+* [Git](#git)
+* [Dotfiles](#dotfiles)
+* [Package managers](#package-managers)
+* [Node tools](#node-tools)
+* [Browser tools](#browser-tools)
 * [Productivity](#productivity)
-
-## <a name="dev-env"></a>Development environment
-
-### <a name="git"></a>Git
-
-[Git](http://git-scm.com/downloads)
-
-[SourceTree](http://www.sourcetreeapp.com/)
-
-[DiffMerge](https://sourcegear.com/diffmerge/downloads.php)
 
 ### <a name="ide"></a>IDE
 
@@ -33,9 +22,13 @@ My regular OSX installation.
 * *Darcula* theme
 * *Mac OS X* keymap
 
-### <a name="command-line-tools"></a>Command-line tools
+### <a name="git"></a>Git
 
-[Oh My ZSH](http://ohmyz.sh) - An open source framework for managing your ZSH configuration
+[Git](http://git-scm.com/downloads)
+
+[SourceTree](http://www.sourcetreeapp.com/)
+
+[DiffMerge](https://sourcegear.com/diffmerge/downloads.php)
 
 ### <a name="dotfiles"></a>Dotfiles
 
@@ -85,25 +78,31 @@ My regular OSX installation.
     ZSH_THEME_GIT_PROMPT_DIRTY="$fg[red]"
     ZSH_THEME_GIT_PROMPT_CLEAN="$fg[green]"
 
-@todo export terminal theme
+To be used with [Oh My ZSH](http://ohmyz.sh) - An open source framework for managing your ZSH configuration
 
-### <a name="misc-tools"></a>Misc tools
+@todo export Terminal settings
+
+## <a name="package-managers"></a>Package managers
 
 [Homebrew](http://brew.sh/) - The missing package manager for OS X
 
 [Composer](https://getcomposer.org/download/) - Dependency Manager for PHP
 
+[Bower](http://bower.io/) - A package manager for the web
+
+## <a name="node-tools"></a>Node tools
+
 [node.js](http://nodejs.org/) - A cross-platform Javascript runtime environment
 
-[Bower](http://bower.io/) - A package manager for the web
+[node-webkit](https://github.com/rogerwang/node-webkit) - an app runtime based on Chromium and node.js
+
+## <a name="task-runners"></a>Task runners
 
 [Grunt](http://gruntjs.com/) - The JavaScript task runner
 
 [Gulp](http://gulpjs.com/) - The streaming build system
 
-[node-webkit](https://github.com/rogerwang/node-webkit) - an app runtime based on Chromium and node.js
-
-## <a name="internet"></a>Internet tools
+## <a name="browser-tools"></a>Browser tools
 
 [Chrome](https://www.google.fr/chrome/browser/)
 
