@@ -2,35 +2,26 @@
 
 My regular web dev installation.
 
-* [IDE](#ide)
-* [Git](#git)
-* [Dotfiles](#dotfiles)
-* [Package managers](#package-managers)
-* [Node tools](#node-tools)
-* [Browser tools](#browser-tools)
-* [Productivity](#productivity)
+### IDE
 
-### <a name="ide"></a>IDE
-
-[Atom](https://atom.io/)
+[Atom](https://atom.io/) - A hackable text editor for the 21st Century
 
 * [Darkula UI](https://atom.io/packages/darkula-ui)
 * [Darkula Syntax](https://atom.io/packages/darkula-syntax)
 
-[PHPStorm](https://www.jetbrains.com/phpstorm/download/)
+[PHPStorm](https://www.jetbrains.com/phpstorm/download/) - PHP IDE that evolves with you
 
-* *Darcula* theme
-* *Mac OS X* keymap
+### Git
 
-### <a name="git"></a>Git
+[Git](http://git-scm.com/downloads) - A free and open source distributed version control system
 
-[Git](http://git-scm.com/downloads)
+[SourceTree](http://www.sourcetreeapp.com/) - A free Git & Mercurial client for Windows or Mac
 
-[SourceTree](http://www.sourcetreeapp.com/)
+[DiffMerge](https://sourcegear.com/diffmerge/downloads.php) - An application to visually compare and merge files
 
-[DiffMerge](https://sourcegear.com/diffmerge/downloads.php)
+### Dotfiles
 
-### <a name="dotfiles"></a>Dotfiles
+[Oh My ZSH](http://ohmyz.sh) - An open source framework for managing your ZSH configuration
 
 `.zshrc`:
 
@@ -78,11 +69,9 @@ My regular web dev installation.
     ZSH_THEME_GIT_PROMPT_DIRTY="$fg[red]"
     ZSH_THEME_GIT_PROMPT_CLEAN="$fg[green]"
 
-To be used with [Oh My ZSH](http://ohmyz.sh) - An open source framework for managing your ZSH configuration
-
 @todo export Terminal settings
 
-## <a name="package-managers"></a>Package managers
+## Package managers
 
 [Homebrew](http://brew.sh/) - The missing package manager for OS X
 
@@ -90,19 +79,19 @@ To be used with [Oh My ZSH](http://ohmyz.sh) - An open source framework for mana
 
 [Bower](http://bower.io/) - A package manager for the web
 
-## <a name="node-tools"></a>Node tools
+## Node tools
 
 [node.js](http://nodejs.org/) - A cross-platform Javascript runtime environment
 
 [node-webkit](https://github.com/rogerwang/node-webkit) - an app runtime based on Chromium and node.js
 
-## <a name="task-runners"></a>Task runners
+## Task runners
 
 [Grunt](http://gruntjs.com/) - The JavaScript task runner
 
 [Gulp](http://gulpjs.com/) - The streaming build system
 
-## <a name="browser-tools"></a>Browser tools
+## Browser tools
 
 [Chrome](https://www.google.fr/chrome/browser/)
 
@@ -118,7 +107,7 @@ To be used with [Oh My ZSH](http://ohmyz.sh) - An open source framework for mana
 
 [Modern.IE](https://www.modern.ie/fr-fr/virtualization-tools) - Official Microsoft virtual machines
 
-## <a name="productivity"></a>Productivity
+## Productivity
 
 [iStat Mini ](http://bjango.com/mac/istatmini/) - A mini system monitor for your Mac
 
