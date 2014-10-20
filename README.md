@@ -5,7 +5,8 @@ My regular OSX installation.
 * [Development environment](#dev-env)
     * [Git](#git)
     * [IDE](#ide)
-    * [Command-line configuration](#command-line-config)
+    * [Command-line tools](#command-line-tools)
+    * [Dotfiles](#dotfiles)
     * [Misc tools](#misc-tools)
 * [Internet tools](#internet)
 * [Productivity](#productivity)
@@ -32,9 +33,11 @@ My regular OSX installation.
 * *Darcula* theme
 * *Mac OS X* keymap
 
-### <a name="command-line-config"></a>Command-line configuration
+### <a name="command-line-tools"></a>Command-line tools
 
 [Oh My ZSH](http://ohmyz.sh) - An open source framework for managing your ZSH configuration
+
+### <a name="dotfiles"></a>Dotfiles
 
 `.zshrc`:
 
@@ -64,43 +67,22 @@ My regular OSX installation.
 
 `johan.zsh-theme`:
 
-    function git_prompt_info() {
-      ref=$(git symbolic-ref HEAD 2> /dev/null) || return
-      echo "$(parse_git_dirty)$ZSH_THEME_GIT_PROMPT_PREFIX$(current_branch)$ZSH_THEME_GIT_PROMPT_SUFFIX"
+    function git_prompt_info()
+    {
+        foo=$(git status 2> /dev/null) && echo "$(parse_git_dirty)$ZSH_THEME_GIT_PROMPT_PREFIX$(current_branch)$ZSH_THEME_GIT_PROMPT_SUFFIX" || return
     }
 
-    function get_pwd() {
-      print -D $PWD
-    }
-
-    function put_spacing() {
-      local git=$(git_prompt_info)
-      if [ ${#git} != 0 ]; then
-        ((git=${#git} - 10))
-      else
-        git=0
-      fi
-
-      local termwidth
-      (( termwidth = ${COLUMNS} - 3 - ${#HOST} - ${#$(get_pwd)} - ${git} ))
-
-      local spacing=""
-      for i in {1..$termwidth}; do
-        spacing="${spacing} "
-      done
-      echo $spacing
-    }
-
-    function precmd() {
-    print -rP '
-    $fg[cyan]%m: $fg[yellow]$(get_pwd)$(put_spacing)$(git_prompt_info)'
+    function precmd()
+    {
+        print -rP '
+    $fg[cyan]%m: $fg[yellow]`print -D $PWD` $(git_prompt_info)'
     }
 
     PROMPT='%{$reset_color%}→ '
 
     ZSH_THEME_GIT_PROMPT_PREFIX="[git:"
     ZSH_THEME_GIT_PROMPT_SUFFIX="]$reset_color"
-    ZSH_THEME_GIT_PROMPT_DIRTY="$fg[red]+"
+    ZSH_THEME_GIT_PROMPT_DIRTY="$fg[red]"
     ZSH_THEME_GIT_PROMPT_CLEAN="$fg[green]"
 
 @todo export terminal theme
@@ -125,24 +107,24 @@ My regular OSX installation.
 
 [Chrome](https://www.google.fr/chrome/browser/)
 
-[Ghostery](https://www.ghostery.com/)
+[Ghostery](https://www.ghostery.com/) - Chrome tracking blocker
 
-[Cache killer](https://chrome.google.com/webstore/detail/cache-killer/jpfbieopdmepaolggioebjmedmclkbap)
+[Cache killer](https://chrome.google.com/webstore/detail/cache-killer/jpfbieopdmepaolggioebjmedmclkbap) - Automatically clear your browser cache before loading a page
 
-[Choco Chip](https://chrome.google.com/webstore/detail/chocochip-cookie-manager/cdllihdpcibkhhkidaicoeeiammjkokm)
+[Choco Chip](https://chrome.google.com/webstore/detail/chocochip-cookie-manager/cdllihdpcibkhhkidaicoeeiammjkokm) - Fast, easy-to-use cookie manager
 
-[The QR Code Extension](https://chrome.google.com/webstore/detail/the-qr-code-extension/oijdcdmnjjgnnhgljmhkjlablaejfeeb)
+[The QR Code Extension](https://chrome.google.com/webstore/detail/the-qr-code-extension/oijdcdmnjjgnnhgljmhkjlablaejfeeb) - QR Code generator
 
-[Transmit](http://panic.com/transmit/)
+[Transmit](http://panic.com/transmit/) - The well-known FTP client
 
-[Modern.IE](https://www.modern.ie/fr-fr/virtualization-tools)
+[Modern.IE](https://www.modern.ie/fr-fr/virtualization-tools) - Official Microsoft virtual machines
 
 ## <a name="productivity"></a>Productivity
 
-[iStat Mini ](http://bjango.com/mac/istatmini/)
+[iStat Mini ](http://bjango.com/mac/istatmini/) - A mini system monitor for your Mac
 
-[Monity](https://itunes.apple.com/app/monity/id915542151)
+[Monity](https://itunes.apple.com/app/monity/id915542151) - An advanced System Monitoring Widget for OS X Yosemite
 
-[Spectacle](http://spectacleapp.com)
+[Spectacle](http://spectacleapp.com) - Move and resize windows with ease
 
-[Glui](http://glui.me)
+[Glui](http://glui.me) - The simplest way to capture, annotate and share screenshots
