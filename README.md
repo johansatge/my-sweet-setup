@@ -1,6 +1,6 @@
-# OSX Webdev Bootstrap
+# OSX Reminder
 
-My regular web dev installation.
+My regular OS X installation.
 
 ### IDE
 
@@ -10,6 +10,12 @@ My regular web dev installation.
 * [Darkula Syntax](https://atom.io/packages/darkula-syntax)
 
 [PHPStorm](https://www.jetbrains.com/phpstorm/download/) - PHP IDE that evolves with you
+
+[Sequel Pro](http://www.sequelpro.com/) - MySQL database management for Mac OS X
+
+[Mailcatcher](http://mailcatcher.me/) - Super simple SMTP server
+
+[POEdit](http://poedit.net/) - Gettext Translations Editor
 
 ### Git
 
@@ -109,10 +115,20 @@ My regular web dev installation.
 
 ## Productivity
 
-[iStat Mini ](http://bjango.com/mac/istatmini/) - A mini system monitor for your Mac
+[Workflowy](https://workflowy.com/) - Organize your brain
+
+[iStat Mini](http://bjango.com/mac/istatmini/) - A mini system monitor for your Mac
 
 [Monity](https://itunes.apple.com/app/monity/id915542151) - An advanced System Monitoring Widget for OS X Yosemite
 
 [Spectacle](http://spectacleapp.com) - Move and resize windows with ease
 
 [Glui](http://glui.me) - The simplest way to capture, annotate and share screenshots
+
+## Misc
+
+[Spotify](https://www.spotify.com/fr/)
+
+[Skype](http://www.skype.com/)
+
+[Balsamiq Mockups](https://balsamiq.com/) - Rapid, effective and fun wireframing
