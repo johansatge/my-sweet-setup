@@ -11,6 +11,9 @@ My regular OS X installation.
 
 [PHPStorm](https://www.jetbrains.com/phpstorm/download/) - PHP IDE that evolves with you
 
+* [Markdown plugin](https://github.com/nicoulaj/idea-markdown)
+* [Mustache plugin](https://github.com/dmarcotte/idea-handlebars)
+
 [Sequel Pro](http://www.sequelpro.com/) - MySQL database management for Mac OS X
 
 [Mailcatcher](http://mailcatcher.me/) - Super simple SMTP server
