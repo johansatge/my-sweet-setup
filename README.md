@@ -112,6 +112,8 @@ My regular OS X installation.
 
 [The QR Code Extension](https://chrome.google.com/webstore/detail/the-qr-code-extension/oijdcdmnjjgnnhgljmhkjlablaejfeeb) - QR Code generator
 
+[Gmail Notifier](https://chrome.google.com/webstore/detail/gmail-notifier/dcjichoefijpinlfnjghokpkojhlhkgl) - Multiple label and account notifier for Google Mail
+
 [Transmit](http://panic.com/transmit/) - The well-known FTP client
 
 [Modern.IE](https://www.modern.ie/fr-fr/virtualization-tools) - Official Microsoft virtual machines
