@@ -116,6 +116,8 @@ My regular OS X installation.
 
 [Gmail Checker Lite](https://chrome.google.com/webstore/detail/gmail-checker-lite/ehecgbjlfigjeeapplnmliblgpkjaeme) - Account notifier for Google Mail
 
+[Form Filler](https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) - Fills all form inputs in a page with dummy data
+
 [Transmit](http://panic.com/transmit/) - The well-known FTP client
 
 [Modern.IE](https://www.modern.ie/fr-fr/virtualization-tools) - Official Microsoft virtual machines
@@ -130,7 +132,7 @@ My regular OS X installation.
 
 [Spectacle](http://spectacleapp.com) - Move and resize windows with ease
 
-[Glui](http://glui.me) - The simplest way to capture, annotate and share screenshots
+[Monosnap](https://monosnap.com/welcome) - Make screenshots - Draw on it - Shoot video and share your files
 
 ## Misc
 
