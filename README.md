@@ -112,6 +112,8 @@ My regular OS X installation.
 
 [Javascript Error Notifier](https://chrome.google.com/webstore/detail/javascript-errors-notifie/jafmfknfnkoekkdocjiaipcnmkklaajd) - Notifies Javascript errors by icon in address bar
 
+[JSON Formatter](https://github.com/callumlocke/json-formatter) - Chrome extension for printing JSON and JSONP nicely
+
 [The QR Code Extension](https://chrome.google.com/webstore/detail/the-qr-code-extension/oijdcdmnjjgnnhgljmhkjlablaejfeeb) - QR Code generator
 
 [Gmail Checker Lite](https://chrome.google.com/webstore/detail/gmail-checker-lite/ehecgbjlfigjeeapplnmliblgpkjaeme) - Account notifier for Google Mail
