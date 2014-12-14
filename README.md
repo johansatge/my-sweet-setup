@@ -8,6 +8,7 @@ My regular OS X installation.
 
 * [Darkula UI](https://atom.io/packages/darkula-ui)
 * [Darkula Syntax](https://atom.io/packages/darkula-syntax)
+* [Settings file](settings.jar)
 
 [PHPStorm](https://www.jetbrains.com/phpstorm/download/) - PHP IDE that evolves with you
 
