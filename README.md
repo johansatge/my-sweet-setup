@@ -40,6 +40,8 @@ My regular OS X installation.
     alias hosts="atom /etc/hosts & atom /etc/apache2/httpd.conf"
     alias nw="/Applications/node-webkit.app/Contents/MacOS/node-webkit"
     alias phpstorm="open -a 'PHPStorm' "
+    alias sourcetree="open -a 'SourceTree' "
+    alias atom="open -a 'Atom' "
 
     alias php56='homebrewphp php56'
     alias php55='homebrewphp php55'
