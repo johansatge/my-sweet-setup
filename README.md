@@ -35,31 +35,13 @@ My regular OS X installation.
 
 `.zshrc`:
 
-    alias fixairplay="sudo kill `ps -ax | grep 'coreaudiod' | grep 'sbin' |awk '{print $1}'`"
-
     alias composer="php /usr/bin/composer.phar"
     alias hosts="atom /etc/hosts & atom /etc/apache2/httpd.conf"
     alias nw="/Applications/node-webkit.app/Contents/MacOS/node-webkit"
     alias phpstorm="open -a 'PHPStorm' "
     alias sourcetree="open -a 'SourceTree' "
     alias atom="open -a 'Atom' "
-
-    alias php56='homebrewphp php56'
-    alias php55='homebrewphp php55'
-    alias php54='homebrewphp php54'
-    alias php53='homebrewphp php53'
-
-    function homebrewphp
-    {
-        for version in $(brew list | grep "php")
-        do
-            brew unlink $version
-        done
-        brew link $1
-        ln -f -s "/usr/local/opt/$1/libexec/apache2/libphp5.so" ~/.libphp5.so
-        sudo apachectl restart
-        echo "PHP version enabled: $1"
-    }
+    alias fixairplay="sudo kill `ps -ax | grep 'coreaudiod' | grep 'sbin' |awk '{print $1}'`"
 
 `johan.zsh-theme`:
 
