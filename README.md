@@ -51,8 +51,7 @@ My regular OS X installation.
 
     function homebrewphp
     {
-        versions=`brew list | grep "php"`
-        for version in $versions
+        for version in $(brew list | grep "php")
         do
             brew unlink $version
         done
