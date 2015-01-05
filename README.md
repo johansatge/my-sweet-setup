@@ -113,9 +113,7 @@ My regular OS X installation.
 
 [Workflowy](https://workflowy.com/) - Organize your brain
 
-[iStat Mini](http://bjango.com/mac/istatmini/) - A mini system monitor for your Mac
-
-[Monity](https://itunes.apple.com/app/monity/id915542151) - An advanced System Monitoring Widget for OS X Yosemite
+[iStat Menus](http://bjango.com/mac/istatmenus/) - An advanced Mac system monitor for your menubar
 
 [Spectacle](http://spectacleapp.com) - Move and resize windows with ease
 
