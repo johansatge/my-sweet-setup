@@ -36,11 +36,7 @@ My regular OS X installation.
 `.zshrc`:
 
     alias composer="php /usr/bin/composer.phar"
-    alias hosts="atom /etc/hosts & atom /etc/apache2/httpd.conf"
     alias nw="/Applications/node-webkit.app/Contents/MacOS/node-webkit"
-    alias phpstorm="open -a 'PHPStorm' "
-    alias sourcetree="open -a 'SourceTree' "
-    alias atom="open -a 'Atom' "
     alias fixairplay="sudo kill `ps -ax | grep 'coreaudiod' | grep 'sbin' |awk '{print $1}'`"
 
 `johan.zsh-theme`:
