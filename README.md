@@ -109,6 +109,8 @@ My regular OS X installation.
 
 [Workflowy](https://workflowy.com/) - Organize your brain
 
+[Alfred](http://www.alfredapp.com/) - An award-winning productivity application for Mac OS X
+
 [iStat Menus](http://bjango.com/mac/istatmenus/) - An advanced Mac system monitor for your menubar
 
 [Spectacle](http://spectacleapp.com) - Move and resize windows with ease
