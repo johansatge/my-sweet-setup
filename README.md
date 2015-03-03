@@ -65,6 +65,8 @@ My regular OS X installation.
 
 [Homebrew](http://brew.sh/) - The missing package manager for OS X
 
+[Cask](http://caskroom.io/) - Extends Homebrew and brings its elegance, simplicity, and speed to OS X applications
+
 [Composer](https://getcomposer.org/download/) - Dependency Manager for PHP
 
 [Bower](http://bower.io/) - A package manager for the web
@@ -73,7 +75,7 @@ My regular OS X installation.
 
 [node.js](http://nodejs.org/) - A cross-platform Javascript runtime environment
 
-[node-webkit](https://github.com/rogerwang/node-webkit) - an app runtime based on Chromium and node.js
+[node-webkit](https://github.com/rogerwang/node-webkit) - An app runtime based on Chromium and node.js
 
 ## Task runners
 
@@ -81,7 +83,7 @@ My regular OS X installation.
 
 [Gulp](http://gulpjs.com/) - The streaming build system
 
-## Browser tools
+## Internet tools
 
 [Chrome](https://www.google.fr/chrome/browser/)
 
@@ -104,6 +106,22 @@ My regular OS X installation.
 [Transmit](http://panic.com/transmit/) - The well-known FTP client
 
 [Modern.IE](https://www.modern.ie/fr-fr/virtualization-tools) - Official Microsoft virtual machines
+
+## Quicklook plugins
+
+[qlcolorcode](https://code.google.com/p/qlcolorcode/) - A Quick Look plugin for source code with syntax highlighting
+
+[QuickLookStephen](http://whomwah.github.io/qlstephen/) - A QuickLook plugin that lets you view plain text files without a file extension
+
+[QLMarkdown](https://github.com/toland/qlmarkdown) - QuickLook generator for Markdown files
+
+[quick look JSON](http://www.sagtau.com/quicklookjson.html) - A useful quick look plugin to preview JSON files
+
+[quicklook-csv](https://github.com/p2/quicklook-csv) - A QuickLook plugin for CSV files
+
+[qlImageSize](https://github.com/Nyx0uf/qlImageSize) - QuickLook plugin to display the dimensions and size of an image in the title bar
+
+[Suspicious Package](http://www.mothersruin.com/software/SuspiciousPackage/) - A Quick Look Plug-in for OS X Installer Packages
 
 ## Productivity
 
