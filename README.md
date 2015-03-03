@@ -59,7 +59,7 @@ My regular OS X installation.
     ZSH_THEME_GIT_PROMPT_DIRTY="$fg[red]"
     ZSH_THEME_GIT_PROMPT_CLEAN="$fg[green]"
 
-@todo export Terminal settings
+[Settings file](johan.terminal)
 
 ## Package managers
 
