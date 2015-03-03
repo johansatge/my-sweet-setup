@@ -29,17 +29,19 @@ My regular OS X installation.
 
 [DiffMerge](https://sourcegear.com/diffmerge/downloads.php) - An application to visually compare and merge files
 
-### Dotfiles
+### Terminal settings
 
 [Oh My ZSH](http://ohmyz.sh) - An open source framework for managing your ZSH configuration
 
-`.zshrc`:
+[Settings file](johan.terminal) - Colors and windows settings
+
+`.zshrc` file:
 
     alias composer="php /usr/bin/composer.phar"
     alias nw="/Applications/node-webkit.app/Contents/MacOS/node-webkit"
     alias fixairplay="sudo kill `ps -ax | grep 'coreaudiod' | grep 'sbin' |awk '{print $1}'`"
 
-`johan.zsh-theme`:
+`johan.zsh-theme` file:
 
     function git_prompt_info()
     {
@@ -58,8 +60,6 @@ My regular OS X installation.
     ZSH_THEME_GIT_PROMPT_SUFFIX="]$reset_color"
     ZSH_THEME_GIT_PROMPT_DIRTY="$fg[red]"
     ZSH_THEME_GIT_PROMPT_CLEAN="$fg[green]"
-
-[Settings file](johan.terminal)
 
 ## Package managers
 
