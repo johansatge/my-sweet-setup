@@ -107,6 +107,8 @@ My regular OS X installation.
 
 [Modern.IE](https://www.modern.ie/fr-fr/virtualization-tools) - Official Microsoft virtual machines
 
+[Cellist](http://cellist.patr0n.us/) - HTTP debugging proxy for OS X
+
 ## Quicklook plugins
 
 [qlcolorcode](https://code.google.com/p/qlcolorcode/) - A Quick Look plugin for source code with syntax highlighting
@@ -134,6 +136,8 @@ My regular OS X installation.
 [Spectacle](http://spectacleapp.com) - Move and resize windows with ease
 
 [Monosnap](https://monosnap.com/welcome) - Make screenshots - Draw on it - Shoot video and share your files
+
+[TotalFinder](http://totalfinder.binaryage.com/) - Brings colored labels back to your Finder and more!
 
 ## Misc
 
