@@ -29,6 +29,8 @@ My regular OS X installation.
 
 [DiffMerge](https://sourcegear.com/diffmerge/downloads.php) - An application to visually compare and merge files
 
+[git-credential-osxkeychain](https://help.github.com/articles/caching-your-github-password-in-git/) - Caching your Git credentials when using HTTPS
+
 ### Terminal settings
 
 [Oh My ZSH](http://ohmyz.sh) - An open source framework for managing your ZSH configuration
