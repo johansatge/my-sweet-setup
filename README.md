@@ -141,6 +141,8 @@ My regular OS X installation.
 
 [TotalFinder](http://totalfinder.binaryage.com/) - Brings colored labels back to your Finder and more!
 
+[1Password](https://agilebits.com/onepassword) - Put passwords in their place
+
 ## Misc
 
 [Spotify](https://www.spotify.com/fr/)
