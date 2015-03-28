@@ -150,3 +150,5 @@ My regular OS X installation.
 [Skype](http://www.skype.com/)
 
 [Balsamiq Mockups](https://balsamiq.com/) - Rapid, effective and fun wireframing
+
+[Earth view for Google Chrome](http://earthview.withgoogle.com/) - Explore incredible landscapes from Google Maps
