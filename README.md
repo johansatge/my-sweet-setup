@@ -105,6 +105,8 @@ My regular OS X installation.
 
 [Form Filler](https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) - Fills all form inputs in a page with dummy data
 
+[Net Spanner](https://chrome.google.com/webstore/detail/net-spanner/jlgbkimmjlnlenacfaclmmoaooicldnn) - Modify request headers for Chrome
+
 [Transmit](http://panic.com/transmit/) - The well-known FTP client
 
 [Modern.IE](https://www.modern.ie/fr-fr/virtualization-tools) - Official Microsoft virtual machines
