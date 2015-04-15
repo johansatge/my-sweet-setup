@@ -14,6 +14,7 @@ My regular OS X installation.
 
 * [Markdown plugin](https://github.com/nicoulaj/idea-markdown)
 * [Mustache plugin](https://github.com/dmarcotte/idea-handlebars)
+* [.ignore plugin](https://github.com/hsz/idea-gitignore)
 
 [Sequel Pro](http://www.sequelpro.com/) - MySQL database management for Mac OS X
 
