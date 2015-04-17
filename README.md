@@ -2,7 +2,7 @@
 
 My regular OS X installation.
 
-### IDE
+## IDE
 
 [Atom](https://atom.io/) - A hackable text editor for the 21st Century
 
@@ -22,7 +22,7 @@ My regular OS X installation.
 
 [POEdit](http://poedit.net/) - Gettext Translations Editor
 
-### Git
+## Git
 
 [Git](http://git-scm.com/downloads) - A free and open source distributed version control system
 
@@ -32,7 +32,7 @@ My regular OS X installation.
 
 [git-credential-osxkeychain](https://help.github.com/articles/caching-your-github-password-in-git/) - Caching your Git credentials when using HTTPS
 
-### Package managers
+## Package managers
 
 [Homebrew](http://brew.sh/) - The missing package manager for OS X
 
@@ -42,13 +42,13 @@ My regular OS X installation.
 
 [Bower](http://bower.io/) - A package manager for the web
 
-### Command-line environment
+## Command-line environment
 
-#### Tools
+### Tools
 
 [webkit2png](http://www.paulhammond.org/webkit2png/) - A command line tool that creates screenshots of webpages
 
-#### Terminal settings
+### Terminal settings
 
 [Oh My ZSH](http://ohmyz.sh) - An open source framework for managing your ZSH configuration
 
