@@ -32,7 +32,23 @@ My regular OS X installation.
 
 [git-credential-osxkeychain](https://help.github.com/articles/caching-your-github-password-in-git/) - Caching your Git credentials when using HTTPS
 
-### Terminal settings
+### Package managers
+
+[Homebrew](http://brew.sh/) - The missing package manager for OS X
+
+[Cask](http://caskroom.io/) - Extends Homebrew and brings its elegance, simplicity, and speed to OS X applications
+
+[Composer](https://getcomposer.org/download/) - Dependency Manager for PHP
+
+[Bower](http://bower.io/) - A package manager for the web
+
+### Command-line environment
+
+#### Tools
+
+[webkit2png](http://www.paulhammond.org/webkit2png/) - A command line tool that creates screenshots of webpages
+
+#### Terminal settings
 
 [Oh My ZSH](http://ohmyz.sh) - An open source framework for managing your ZSH configuration
 
@@ -63,16 +79,6 @@ My regular OS X installation.
     ZSH_THEME_GIT_PROMPT_SUFFIX="]$reset_color"
     ZSH_THEME_GIT_PROMPT_DIRTY="$fg[red]"
     ZSH_THEME_GIT_PROMPT_CLEAN="$fg[green]"
-
-## Package managers
-
-[Homebrew](http://brew.sh/) - The missing package manager for OS X
-
-[Cask](http://caskroom.io/) - Extends Homebrew and brings its elegance, simplicity, and speed to OS X applications
-
-[Composer](https://getcomposer.org/download/) - Dependency Manager for PHP
-
-[Bower](http://bower.io/) - A package manager for the web
 
 ## Node tools
 
