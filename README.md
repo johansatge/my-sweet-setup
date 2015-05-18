@@ -108,11 +108,9 @@ My regular OS X installation.
 
 [The QR Code Extension](https://chrome.google.com/webstore/detail/the-qr-code-extension/oijdcdmnjjgnnhgljmhkjlablaejfeeb) - QR Code generator
 
-[Gmail Checker Lite](https://chrome.google.com/webstore/detail/gmail-checker-lite/ehecgbjlfigjeeapplnmliblgpkjaeme) - Account notifier for Google Mail
-
 [Form Filler](https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) - Fills all form inputs in a page with dummy data
 
-[Net Spanner](https://chrome.google.com/webstore/detail/net-spanner/jlgbkimmjlnlenacfaclmmoaooicldnn) - Modify request headers for Chrome
+[The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg) - Automatically suspends unused tabs to free up system resources
 
 [Transmit](http://panic.com/transmit/) - The well-known FTP client
 
@@ -159,5 +157,3 @@ My regular OS X installation.
 [Skype](http://www.skype.com/)
 
 [Balsamiq Mockups](https://balsamiq.com/) - Rapid, effective and fun wireframing
-
-[Earth view for Google Chrome](http://earthview.withgoogle.com/) - Explore incredible landscapes from Google Maps
