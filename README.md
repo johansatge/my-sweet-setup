@@ -62,6 +62,8 @@ export ZSH=$HOME/.oh-my-zsh
 ZSH_THEME="johan"
 plugins=(git)
 source $ZSH/oh-my-zsh.sh
+export LC_ALL=en_US.UTF-8
+export LANG=en_US.UTF-8
 
 # Environment vars
 export NODE_PATH=/usr/local/lib/node_modules
