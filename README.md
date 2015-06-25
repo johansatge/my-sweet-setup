@@ -8,6 +8,7 @@ My regular OS X installation.
 
 [PHPStorm](https://www.jetbrains.com/phpstorm/download/) - PHP IDE that evolves with you
 
+* [Settings file](settings.jar)
 * [Markdown plugin](https://github.com/nicoulaj/idea-markdown)
 * [Mustache plugin](https://github.com/dmarcotte/idea-handlebars)
 * [.ignore plugin](https://github.com/hsz/idea-gitignore)
