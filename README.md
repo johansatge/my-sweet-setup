@@ -6,10 +6,6 @@ My regular OS X installation.
 
 [Atom](https://atom.io/) - A hackable text editor for the 21st Century
 
-* [Darkula UI](https://atom.io/packages/darkula-ui)
-* [Darkula Syntax](https://atom.io/packages/darkula-syntax)
-* [Settings file](settings.jar)
-
 [PHPStorm](https://www.jetbrains.com/phpstorm/download/) - PHP IDE that evolves with you
 
 * [Markdown plugin](https://github.com/nicoulaj/idea-markdown)
