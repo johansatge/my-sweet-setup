@@ -111,7 +111,17 @@ ulimit -n 1024 # This is needed for Duplicity to work on heavy backup sets
 
 ## Internet tools
 
+### Softwares
+
 [Chrome](https://www.google.fr/chrome/browser/)
+
+[Transmit](http://panic.com/transmit/) - The well-known FTP client
+
+[Modern.IE](https://www.modern.ie/fr-fr/virtualization-tools) - Official Microsoft virtual machines
+
+[Cellist](http://cellist.patr0n.us/) - HTTP debugging proxy for OS X
+
+### Chrome plugins
 
 [Ghostery](https://www.ghostery.com/) - Chrome tracking blocker
 
@@ -127,13 +137,7 @@ ulimit -n 1024 # This is needed for Duplicity to work on heavy backup sets
 
 [Form Filler](https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) - Fills all form inputs in a page with dummy data
 
-[The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg) - Automatically suspends unused tabs to free up system resources
-
-[Transmit](http://panic.com/transmit/) - The well-known FTP client
-
-[Modern.IE](https://www.modern.ie/fr-fr/virtualization-tools) - Official Microsoft virtual machines
-
-[Cellist](http://cellist.patr0n.us/) - HTTP debugging proxy for OS X
+[Speed Dial 2](https://speeddial2.com/) - Ultimate new tab page for Google Chrome
 
 ## Quicklook plugins
 
