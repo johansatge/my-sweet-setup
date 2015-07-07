@@ -33,6 +33,8 @@ My regular OS X installation.
 
 ## Package managers
 
+[npm](https://www.npmjs.com/) - The package manager for node
+
 [Homebrew](http://brew.sh/) - The missing package manager for OS X
 
 [Cask](http://caskroom.io/) - Extends Homebrew and brings its elegance, simplicity, and speed to OS X applications
@@ -98,12 +100,6 @@ ulimit -n 1024 # This is needed for Duplicity to work on heavy backup sets
     ZSH_THEME_GIT_PROMPT_SUFFIX="]$reset_color"
     ZSH_THEME_GIT_PROMPT_DIRTY="$fg[red]"
     ZSH_THEME_GIT_PROMPT_CLEAN="$fg[green]"
-
-## Node tools
-
-[node.js](http://nodejs.org/) - A cross-platform Javascript runtime environment
-
-[node-webkit](https://github.com/rogerwang/node-webkit) - An app runtime based on Chromium and node.js
 
 ## Task runners
 
