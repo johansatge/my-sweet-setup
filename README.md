@@ -155,7 +155,7 @@ ulimit -n 1024 # This is needed for Duplicity to work on heavy backup sets
 
 ## Productivity
 
-[Workflowy](https://workflowy.com/) - Organize your brain
+[Wunderlist](https://www.wunderlist.com) - To-do list, Reminders, Errands
 
 [Alfred](http://www.alfredapp.com/) - An award-winning productivity application for Mac OS X
 
