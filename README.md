@@ -29,6 +29,8 @@ My regular OS X installation.
 
 [git-credential-osxkeychain](https://help.github.com/articles/caching-your-github-password-in-git/) - Caching your Git credentials when using HTTPS
 
+[PopHub](http://questbe.at/pophub/) - GitHub Feed Reader for OS X
+
 ## Package managers
 
 [Homebrew](http://brew.sh/) - The missing package manager for OS X
