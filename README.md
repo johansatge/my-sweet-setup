@@ -120,6 +120,8 @@ ulimit -n 1024 # This is needed for Duplicity to work on heavy backup sets
 
 [Cellist](http://cellist.patr0n.us/) - HTTP debugging proxy for OS X
 
+[Visits](http://getvisitsapp.com/) - Google Analytics in the menubar
+
 ### Chrome plugins
 
 [Ghostery](https://www.ghostery.com/) - Chrome tracking blocker
