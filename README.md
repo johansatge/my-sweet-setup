@@ -178,4 +178,6 @@ ulimit -n 1024 # This is needed for Duplicity to work on heavy backup sets
 
 [Skype](http://www.skype.com/)
 
+[Dropbox](https://www.dropbox.com/)
+
 [Balsamiq Mockups](https://balsamiq.com/) - Rapid, effective and fun wireframing
