@@ -4,10 +4,9 @@
 * [Development](#development)
     * [IDE](#ide)
     * [Revision control](#revision-control)
-    * [Debugging](#debugging)
 * [Internet](#internet)
-    * [Tools](#softwares)
-    * [Chrome plugins](#chrome-plugins)
+    * [Chrome environment](#chrome-environment)
+    * [Network and debugging](#network-and-debugging)
 * [Productivity](#productivity)
     * [Data](#data)
     * [OSX enhancement](#osx-enhancement)
@@ -48,23 +47,11 @@
 
 [git-credential-osxkeychain](https://help.github.com/articles/caching-your-github-password-in-git/) - Caching your Git credentials when using HTTPS
 
-### Debugging
-
-[Cellist](http://cellist.patr0n.us/) - HTTP debugging proxy for OS X
-
-[Mailcatcher](http://mailcatcher.me/) - Super simple SMTP server
-
 ## Internet
 
-### Tools
+### Chrome environment
 
 [Chrome](https://www.google.fr/chrome/browser/)
-
-[Transmit](http://panic.com/transmit/) - The well-known FTP client
-
-[Modern.IE](https://www.modern.ie/fr-fr/virtualization-tools) - Official Microsoft virtual machines
-
-### Chrome plugins
 
 [Ghostery](https://www.ghostery.com/) - Chrome tracking blocker
 
@@ -79,6 +66,18 @@
 [The QR Code Extension](https://chrome.google.com/webstore/detail/the-qr-code-extension/oijdcdmnjjgnnhgljmhkjlablaejfeeb) - QR Code generator
 
 [Form Filler](https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) - Fills all form inputs in a page with dummy data
+
+### Network and debugging
+
+[Transmit](http://panic.com/transmit/) - The well-known FTP client
+
+[Viscosity](http://www.sparklabs.com/viscosity/) - The ultimate OpenVPN client
+
+[Cellist](http://cellist.patr0n.us/) - HTTP debugging proxy for OS X
+
+[Mailcatcher](http://mailcatcher.me/) - Super simple SMTP server
+
+[Modern.IE](https://www.modern.ie/fr-fr/virtualization-tools) - Official Microsoft virtual machines
 
 ## Productivity
 
