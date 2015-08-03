@@ -40,7 +40,7 @@
 
 ### Revision control
 
-[Git](http://git-scm.com/downloads) - A free and open source distributed version control system
+[Git](http://git-scm.com/downloads) - A free and open source distributed version control system ([configured](git))
 
 [SourceTree](http://www.sourcetreeapp.com/) - A free Git & Mercurial client for Windows or Mac
 
