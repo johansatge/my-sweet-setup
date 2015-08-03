@@ -36,6 +36,8 @@
 
 [Sequel Pro](http://www.sequelpro.com/) - MySQL database management for Mac OS X
 
+[VirtualBox](https://www.virtualbox.org/wiki/Downloads) - A powerful x86 and AMD64/Intel64 virtualization product
+
 ### Revision control
 
 [Git](http://git-scm.com/downloads) - A free and open source distributed version control system
