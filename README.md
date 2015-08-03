@@ -18,11 +18,11 @@
 
 [Oh My ZSH](http://ohmyz.sh) - An open source framework for managing your ZSH configuration
 
-[.zshrc](.zshrc) - ZSH settings
+[.zshrc](shell/.zshrc) - ZSH settings
 
-[johan.zsh-theme](johan.zsh-theme) - Oh My ZSH theme
+[johan.zsh-theme](shell/johan.zsh-theme) - Oh My ZSH theme
 
-[johan.terminal](johan.terminal) - OSX Terminal theme & colors
+[johan.terminal](shell/johan.terminal) - OSX Terminal theme & colors
 
 ## Development
 
@@ -30,7 +30,7 @@
 
 [Atom](https://atom.io/) - A hackable text editor for the 21st Century
 
-[PHPStorm](https://www.jetbrains.com/phpstorm/download/) - PHP IDE that evolves with you
+[PHPStorm](https://www.jetbrains.com/phpstorm/download/) - PHP IDE that evolves with you ([configured](ide/phpstorm-settings.jar))
 
 [POEdit](http://poedit.net/) - Gettext Translations Editor
 
@@ -52,13 +52,13 @@
 
 ### MAMP stack
 
-Apache [2.4](https://httpd.apache.org/docs/2.4/) (comes with OSX Yosemite, [configured](httpd.conf) and [fixed](https://gist.github.com/johansatge/968f981128ab0ca49ce4))
+Apache [2.4](https://httpd.apache.org/docs/2.4/) (comes with OSX Yosemite, [configured](mamp/httpd.conf) and [fixed](https://gist.github.com/johansatge/968f981128ab0ca49ce4))
 
 PHP ([brewed](https://github.com/Homebrew/homebrew-php))
 
 MySQL ([brewed](https://github.com/Homebrew/homebrew/blob/master/Library/Formula/mysql.rb) or [original](http://dev.mysql.com/downloads/mysql/))
 
-Xdebug ([brewed](https://github.com/homebrew/homebrew-php/blob/master/Formula/php56-xdebug.rb) and [configured](https://gist.github.com/johansatge/21e5ab4ab2b0cff69741))
+Xdebug ([brewed](https://github.com/homebrew/homebrew-php/blob/master/Formula/php56-xdebug.rb) and [configured](mamp/xdebug.conf))
 
 ## Internet
 
