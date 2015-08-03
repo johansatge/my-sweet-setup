@@ -56,7 +56,7 @@ PHP ([brewed](https://github.com/Homebrew/homebrew-php))
 
 MySQL ([brewed](https://github.com/Homebrew/homebrew/blob/master/Library/Formula/mysql.rb) or [original](http://dev.mysql.com/downloads/mysql/))
 
-Xdebug ([brewed](https://github.com/homebrew/homebrew-php/blob/master/Formula/php56-xdebug.rb) and [configured](xdebug.php.ini))
+Xdebug ([brewed](https://github.com/homebrew/homebrew-php/blob/master/Formula/php56-xdebug.rb) and [configured](https://gist.github.com/johansatge/21e5ab4ab2b0cff69741))
 
 ## Internet
 
