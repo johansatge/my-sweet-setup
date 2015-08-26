@@ -82,6 +82,8 @@ Xdebug ([brewed](https://github.com/homebrew/homebrew-php/blob/master/Formula/ph
 
 [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) - The easiest way to identify fonts on web pages
 
+[Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl) - Screen capture your current page in entirety and reliably
+
 ### Network and debugging
 
 [Transmit](http://panic.com/transmit/) - The well-known FTP client
