@@ -1,6 +1,6 @@
 [user]
 	name = Johan Satgé
-	email = contact@johansatge.fr
+	email = johansatge@users.noreply.github.com
 [core]
 	excludesfile = /Users/johan/.gitignore_global
 [difftool "sourcetree"]
