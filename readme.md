@@ -96,6 +96,8 @@ Xdebug ([brewed](https://github.com/homebrew/homebrew-php/blob/master/Formula/ph
 
 [Modern.IE](https://www.modern.ie/fr-fr/virtualization-tools) - Official Microsoft virtual machines
 
+[Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) - Intercepts and filters outgoing connections
+
 ## Productivity
 
 ### Data
