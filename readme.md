@@ -13,6 +13,7 @@
     * [OSX enhancement](#osx-enhancement)
 * [Messaging](#messaging)
 * [Photo](#photo)
+* [Video](#video)
 
 ## Dotfiles and settings
 
@@ -151,3 +152,9 @@ Xdebug ([brewed](https://github.com/homebrew/homebrew-php/blob/master/Formula/ph
 [Monosnap](https://monosnap.com/welcome) - Make screenshots - Draw on it - Shoot video and share your files
 
 [Lyn](http://www.lynapp.com/) - Lightweight image browser and viewer
+
+## Video
+
+[MPlayerX](http://mplayerx.org/) - The media player you must have
+
+[Shotcut](http://shotcut.org/) - Cross-platform, open-source video editor
