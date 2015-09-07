@@ -66,6 +66,8 @@ Xdebug ([brewed](https://github.com/homebrew/homebrew-php/blob/master/Formula/ph
 
 [Chrome](https://www.google.fr/chrome/browser/)
 
+[DuckDuckGo](https://duckduckgo.com/?q=%s) - The search engine that doesn't track you
+
 [Ghostery](https://www.ghostery.com/) - Chrome tracking blocker
 
 [Cache killer](https://chrome.google.com/webstore/detail/cache-killer/jpfbieopdmepaolggioebjmedmclkbap) - Automatically clear your browser cache before loading a page
