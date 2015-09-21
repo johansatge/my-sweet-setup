@@ -87,6 +87,8 @@ Xdebug ([brewed](https://github.com/homebrew/homebrew-php/blob/master/Formula/ph
 
 [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl) - Screen capture your current page in entirety and reliably
 
+[Visual Event](https://chrome.google.com/webstore/detail/visual-event/pbmmieigblcbldgdokdjpioljjninaim) - Know what event is bound on each dom element
+
 ### Network and debugging
 
 [Transmit](http://panic.com/transmit/) - The well-known FTP client
