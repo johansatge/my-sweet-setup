@@ -17,6 +17,7 @@ export PATH="/Applications/Hugin/HuginTools:$PATH"
 # Aliases
 alias mysql.server="/usr/local/mysql/support-files/mysql.server"
 alias fixairplay="sudo kill `ps -ax | grep 'coreaudiod' | grep 'sbin' |awk '{print $1}'`"
+alias nwjs="/Applications/nwjs.app/Contents/MacOS/nwjs"
 
 # Misc
 ulimit -n 1024 # This is needed for Duplicity to work on heavy backup sets
