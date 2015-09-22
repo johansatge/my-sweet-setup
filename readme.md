@@ -93,10 +93,6 @@ Xdebug ([brewed](https://github.com/homebrew/homebrew-php/blob/master/Formula/ph
 
 [Transmit](http://panic.com/transmit/) - The well-known FTP client
 
-[Viscosity](http://www.sparklabs.com/viscosity/) - The ultimate OpenVPN client
-
-[Cellist](http://cellist.patr0n.us/) - HTTP debugging proxy for OS X
-
 [Mailcatcher](http://mailcatcher.me/) - Super simple SMTP server
 
 [Modern.IE](https://www.modern.ie/fr-fr/virtualization-tools) - Official Microsoft virtual machines
@@ -110,8 +106,6 @@ Xdebug ([brewed](https://github.com/homebrew/homebrew-php/blob/master/Formula/ph
 [Wunderlist](https://www.wunderlist.com) - To-do list, reminders, errands
 
 [1Password](https://agilebits.com/onepassword) - Put passwords in their place
-
-[Visits](http://getvisitsapp.com/) - Google Analytics in the menubar
 
 [Arq](https://www.arqbackup.com) - Back up all your computers. Simple. Awesome.
 
