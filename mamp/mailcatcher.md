@@ -1,4 +1,4 @@
-## Installing Mailcatcher on OSX El Capitan with [SIP](https://en.wikipedia.org/wiki/System_Integrity_Protection) enabled
+## Installing [Mailcatcher](http://mailcatcher.me) on OSX El Capitan with [SIP](https://en.wikipedia.org/wiki/System_Integrity_Protection) enabled
 
 Due to new restrictions on El Capitan , `sudo gem install` can't install stuff in system directories (like `/usr/bin`).
 
