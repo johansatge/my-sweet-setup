@@ -93,7 +93,7 @@ Xdebug ([brewed](https://github.com/homebrew/homebrew-php/blob/master/Formula/ph
 
 [Transmit](http://panic.com/transmit/) - The well-known FTP client
 
-[Mailcatcher](http://mailcatcher.me/) - Super simple SMTP server
+[Mailcatcher](http://mailcatcher.me/) - Super simple SMTP server ([Custom install on OSX 10.11](mamp/mailcatcher.md))
 
 [Modern.IE](https://www.modern.ie/fr-fr/virtualization-tools) - Official Microsoft virtual machines
 
