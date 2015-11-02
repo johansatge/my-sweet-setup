@@ -137,6 +137,8 @@ Xdebug ([brewed](https://github.com/homebrew/homebrew-php/blob/master/Formula/ph
 
 [Suspicious Package](http://www.mothersruin.com/software/SuspiciousPackage/) - A Quick Look Plug-in for OS X Installer Package
 
+[QuickLook Video](https://github.com/Marginal/QLVideo) - Display thumbnails, static QuickLook previews, cover art and metadata for most types of video files
+
 ## Messaging
 
 [Skype](http://www.skype.com/)
