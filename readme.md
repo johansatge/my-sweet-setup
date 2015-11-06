@@ -33,6 +33,8 @@
 
 [PHPStorm](https://www.jetbrains.com/phpstorm/download/) - PHP IDE that evolves with you ([configured](ide/phpstorm-settings.jar))
 
+[CodeKit](http://incident57.com/codekit/) - THE Mac App For Web Developers
+
 [POEdit](http://poedit.net/) - Gettext Translations Editor
 
 [Sequel Pro](http://www.sequelpro.com/) - MySQL database management for Mac OS X
