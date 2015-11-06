@@ -141,6 +141,8 @@ Xdebug ([brewed](https://github.com/homebrew/homebrew-php/blob/master/Formula/ph
 
 [QuickLook Video](https://github.com/Marginal/QLVideo) - Display thumbnails, static QuickLook previews, cover art and metadata for most types of video files
 
+[The Unarchiver](http://unarchiver.c3.cx/unarchiver) - The hugely popular unarchiving app for Mac OS X
+
 ## Messaging
 
 [Skype](http://www.skype.com/)
