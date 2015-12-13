@@ -149,9 +149,9 @@ Xdebug ([brewed](https://github.com/homebrew/homebrew-php/blob/master/Formula/ph
 
 [Skype](http://www.skype.com/)
 
-[Slack](https://itunes.apple.com/us/app/slack-team-communication/id618783545?mt=8)
+[Slack](https://itunes.apple.com/us/app/slack-team-communication/id618783545?mt=8) - A messaging app for teams
 
-[Colloquy](http://colloquy.info/) - A Mac OS X Internet Chat Client
+[HipChat](https://www.hipchat.com/downloads) - Private group chat, video chat, instant messaging for teams
 
 ## Photo
 
@@ -164,3 +164,5 @@ Xdebug ([brewed](https://github.com/homebrew/homebrew-php/blob/master/Formula/ph
 [MPlayerX](http://mplayerx.org/) - The media player you must have
 
 [Shotcut](http://shotcut.org/) - Cross-platform, open-source video editor
+
+[Adapter](https://www.macroplant.com/adapter/) - Converts Video, Audio and Images
