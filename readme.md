@@ -159,6 +159,8 @@ Xdebug ([brewed](https://github.com/homebrew/homebrew-php/blob/master/Formula/ph
 
 [Lyn](http://www.lynapp.com/) - Lightweight image browser and viewer
 
+[PhotoSync](https://www.photosync-app.com/) - Wireless transfer, backup and share photo and video files
+
 ## Video
 
 [MPlayerX](http://mplayerx.org/) - The media player you must have
