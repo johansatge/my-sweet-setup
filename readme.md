@@ -57,11 +57,11 @@
 
 Apache [2.4](https://httpd.apache.org/docs/2.4/) (comes with OSX Yosemite, [configured](mamp/httpd.conf) and [fixed](https://gist.github.com/johansatge/968f981128ab0ca49ce4))
 
-PHP ([brewed](https://github.com/Homebrew/homebrew-php))
+PHP ([brewed](https://github.com/Homebrew/homebrew-php) and [configured](mamp/php.ini))
 
 MySQL ([brewed](https://github.com/Homebrew/homebrew/blob/master/Library/Formula/mysql.rb) or [original](http://dev.mysql.com/downloads/mysql/), [configured](mamp/mysql.md))
 
-Xdebug ([brewed](https://github.com/homebrew/homebrew-php/blob/master/Formula/php56-xdebug.rb) and [configured](mamp/xdebug.conf))
+Xdebug ([brewed](https://github.com/homebrew/homebrew-php/blob/master/Formula/php56-xdebug.rb))
 
 ## Internet
 
