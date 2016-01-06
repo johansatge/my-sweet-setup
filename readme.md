@@ -1,5 +1,9 @@
 # My sweet setup
 
+> OSX tools and tips for MAMP developers and daily users
+
+---
+
 * [Dotfiles and settings](#dotfiles-and-settings)
 * [Development](#development)
     * [IDE](#ide)
