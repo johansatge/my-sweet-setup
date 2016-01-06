@@ -10,27 +10,28 @@ ERROR:  While executing gem ... (Errno::EPERM)
 
 ---
 
-A workaround is to install the gem somewhere in your home directory (here, in `~/.bin`).
+A workaround is to install the gem in some writeable place - here, in `/usr/local/bin`.
 
 **1 .** Install the gem:
 
 ```bash
-$ gem install mailcatcher --user-install -n~/.bin
+$ gem install -n /usr/local/bin mailcatcher
 ```
 
 **2 .** Add the directory to your `$PATH`, if not already present:
 
 ```bash
-export PATH="/Users/you/.bin:${PATH}"
+export PATH="/usr/local/bin:${PATH}"
 ```
 
 **3 .** Configure your `php.ini` with the right path:
 
 ```bash
-sendmail_path = /usr/bin/env /Users/you/.bin/catchmail -f some@from.address
+sendmail_path = /usr/local/bin/catchmail -f debug@mailcatcher.local
 ```
+*Using the absolute path of `catchmail` is needed if you are using PHP with Apache, because in this context the `$PATH` is not available.*
 
-**4 .** Lanch `mailcatcher` as usual:
+**4 .** Launch `mailcatcher` as usual:
 
 ```bash
 $ mailcatcher
