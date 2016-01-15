@@ -16,7 +16,7 @@
     * [Data](#data)
     * [OSX enhancement](#osx-enhancement)
 * [Messaging](#messaging)
-* [Photo](#photo)
+* [Photo and Imaging](#photo-and-imaging)
 * [Video](#video)
 
 ## Dotfiles and settings
@@ -157,13 +157,15 @@ Xdebug ([brewed](https://github.com/homebrew/homebrew-php/blob/master/Formula/ph
 
 [HipChat](https://www.hipchat.com/downloads) - Private group chat, video chat, instant messaging for teams
 
-## Photo
+## Photo and Imaging
 
 [Monosnap](https://monosnap.com/welcome) - Make screenshots - Draw on it - Shoot video and share your files
 
 [Lyn](http://www.lynapp.com/) - Lightweight image browser and viewer
 
 [PhotoSync](https://www.photosync-app.com/) - Wireless transfer, backup and share photo and video files
+
+[ImageOptim](https://imageoptim.com/) - Better *Save For Web*
 
 ## Video
 
