@@ -97,6 +97,8 @@ Xdebug ([brewed](https://github.com/homebrew/homebrew-php/blob/master/Formula/ph
 
 [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh) - Resize browser window to emulate various screen resolutions
 
+[Pesticide](http://pesticide.io/) - Faster CSS layout debugging
+
 ### Network and debugging
 
 [Transmit](http://panic.com/transmit/) - The well-known FTP client
