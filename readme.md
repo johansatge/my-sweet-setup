@@ -100,6 +100,8 @@ Xdebug ([brewed](https://github.com/homebrew/homebrew-php/blob/master/Formula/ph
 
 [Pesticide](http://pesticide.io/) - Faster CSS layout debugging
 
+[Flashcontrol](https://chrome.google.com/webstore/detail/flashcontrol/mfidmkgnfgnkihnjeklbekckimkipmoe) - Prevents Flash content from loading unless you allow it
+
 ### Network and debugging
 
 [Transmit](http://panic.com/transmit/) - The well-known FTP client
