@@ -180,6 +180,10 @@ Xdebug ([brewed](https://github.com/homebrew/homebrew-php/blob/master/Formula/ph
 
 [MPlayerX](http://mplayerx.org/) - The media player you must have
 
+[HandBrake](https://handbrake.fr/) - The open source video transcoder
+
 [Shotcut](http://shotcut.org/) - Cross-platform, open-source video editor
 
 [Adapter](https://www.macroplant.com/adapter/) - Converts Video, Audio and Images
+
+
