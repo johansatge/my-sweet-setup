@@ -75,7 +75,7 @@ Xdebug ([brewed](https://github.com/homebrew/homebrew-php/blob/master/Formula/ph
 
 [DuckDuckGo](https://duckduckgo.com/?q=%s) - The search engine that doesn't track you
 
-[Ghostery](https://www.ghostery.com/) - Chrome tracking blocker
+[Privacy Badger](https://www.eff.org/privacybadger) - Blocks spying ads and invisible trackers
 
 [Cache killer](https://chrome.google.com/webstore/detail/cache-killer/jpfbieopdmepaolggioebjmedmclkbap) - Automatically clear your browser cache before loading a page
 
@@ -89,15 +89,11 @@ Xdebug ([brewed](https://github.com/homebrew/homebrew-php/blob/master/Formula/ph
 
 [Form Filler](https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) - Fills all form inputs in a page with dummy data
 
-[WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) - The easiest way to identify fonts on web pages
-
 [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl) - Screen capture your current page in entirety and reliably
 
 [Visual Event](https://chrome.google.com/webstore/detail/visual-event/pbmmieigblcbldgdokdjpioljjninaim) - Know what event is bound on each dom element
 
 [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh) - Resize browser window to emulate various screen resolutions
-
-[Pesticide](http://pesticide.io/) - Faster CSS layout debugging
 
 [Flashcontrol](https://chrome.google.com/webstore/detail/flashcontrol/mfidmkgnfgnkihnjeklbekckimkipmoe) - Prevents Flash content from loading unless you allow it
 
@@ -132,8 +128,6 @@ Xdebug ([brewed](https://github.com/homebrew/homebrew-php/blob/master/Formula/ph
 [iStat Menus](http://bjango.com/mac/istatmenus/) - An advanced Mac system monitor for your menubar
 
 [Spectacle](http://spectacleapp.com) - Move and resize windows with ease
-
-[TotalFinder](http://totalfinder.binaryage.com/) - Brings colored labels back to your Finder and more!
 
 [qlcolorcode](https://code.google.com/p/qlcolorcode/) - A Quick Look plugin for source code with syntax highlighting
 
