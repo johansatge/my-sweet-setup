@@ -165,7 +165,7 @@ Xdebug ([brewed](https://github.com/homebrew/homebrew-php/blob/master/Formula/ph
 
 ## Video
 
-[MPlayerX](http://mplayerx.org/) - The media player you must have
+[VLC](https://www.videolan.org/vlc/)
 
 [HandBrake](https://handbrake.fr/) - The open source video transcoder
 
