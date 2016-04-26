@@ -13,8 +13,7 @@
     * [Chrome environment](#chrome-environment)
     * [Network and debugging](#network-and-debugging)
 * [Productivity](#productivity)
-    * [Data](#data)
-    * [Text editing](#text-editing)
+    * [Data and lists](#data-and-lists)
     * [OSX enhancement](#osx-enhancement)
 * [Messaging](#messaging)
 * [Photo and Imaging](#photo-and-imaging)
@@ -114,7 +113,7 @@ Xdebug ([brewed](https://github.com/homebrew/homebrew-php/blob/master/Formula/ph
 
 ## Productivity
 
-### Data
+### Data and lists
 
 [Wunderlist](https://www.wunderlist.com) - To-do list, reminders, errands
 
@@ -125,10 +124,6 @@ Xdebug ([brewed](https://github.com/homebrew/homebrew-php/blob/master/Formula/ph
 [Carbon Copy Cloner](http://bombich.com/) - Mac Backup Software
 
 [Dropbox](https://www.dropbox.com/)
-
-### Text editing
-
-[MacDown](http://macdown.uranusjr.com/) - The open source Markdown editor for OS X.
 
 ### OSX enhancement
 
