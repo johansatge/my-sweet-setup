@@ -162,9 +162,7 @@ Xdebug ([brewed](https://github.com/homebrew/homebrew-php/blob/master/Formula/ph
 
 [Skype](http://www.skype.com/)
 
-[Slack](https://itunes.apple.com/us/app/slack-team-communication/id618783545?mt=8) - A messaging app for teams
-
-[HipChat](https://www.hipchat.com/downloads) - Private group chat, video chat, instant messaging for teams
+[AirMail](http://airmailapp.com/) - Lightning Fast Mail Client for Mac and iPhone
 
 ## Photo and Imaging
 
