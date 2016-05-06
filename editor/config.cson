@@ -1,0 +1,18 @@
+"*":
+  core:
+    themes: [
+      "native-ui"
+      "monokai"
+    ]
+  docblockr:
+    param_description: false
+  editor:
+    fontFamily: "Menlo"
+    fontSize: 12
+    lineHeight: 1.4
+    showInvisibles: true
+    tabLength: 4
+  "exception-reporting":
+    userId: "157f2e91-ae38-38df-99c0-a02518323d8b"
+  welcome:
+    showOnStartup: false
