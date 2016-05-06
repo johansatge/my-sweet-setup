@@ -33,7 +33,7 @@
 
 ### Editor
 
-[Atom](https://atom.io/) - A hackable text editor for the 21st Century
+[Atom](https://atom.io/) - A hackable text editor for the 21st Century ([configured](editor/config.cson))
 
 * Font: [Menlo](https://en.wikipedia.org/wiki/Menlo_(typeface)) *(12pt | 1.4)*
 * Theme: [native-ui](https://atom.io/packages/native-ui)
