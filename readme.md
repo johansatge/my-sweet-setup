@@ -174,7 +174,7 @@ Xdebug ([brewed](https://github.com/homebrew/homebrew-php/blob/master/Formula/ph
 
 [VLC](https://www.videolan.org/vlc/)
 
-[HandBrake](https://handbrake.fr/) - The open source video transcoder
+[HandBrake](https://handbrake.fr/) & [HandbrakeCLI](https://trac.handbrake.fr/wiki/CLIGuide) - The open source video transcoder
 
 [Shotcut](http://shotcut.org/) - Cross-platform, open-source video editor
 
