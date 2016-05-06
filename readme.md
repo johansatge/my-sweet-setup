@@ -35,12 +35,6 @@
 
 [Atom](https://atom.io/) - A hackable text editor for the 21st Century
 
-[PHPStorm](https://www.jetbrains.com/phpstorm/download/) - PHP IDE that evolves with you ([configured](ide/phpstorm-settings.jar))
-
-[CodeKit](http://incident57.com/codekit/) - THE Mac App For Web Developers
-
-[POEdit](http://poedit.net/) - Gettext Translations Editor
-
 [Sequel Pro](http://www.sequelpro.com/) - MySQL database management for Mac OS X
 
 [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - A powerful x86 and AMD64/Intel64 virtualization product
@@ -172,5 +166,3 @@ Xdebug ([brewed](https://github.com/homebrew/homebrew-php/blob/master/Formula/ph
 [Shotcut](http://shotcut.org/) - Cross-platform, open-source video editor
 
 [Adapter](https://www.macroplant.com/adapter/) - Converts Video, Audio and Images
-
-
