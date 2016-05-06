@@ -27,7 +27,7 @@
 
 [johan.zsh-theme](shell/johan.zsh-theme) - Oh My ZSH theme
 
-[johan.terminal](shell/johan.terminal) - OSX Terminal theme & colors
+[johan.terminal](shell/johan.terminal) - Terminal theme (based on [Monokai Soda](https://github.com/lysyi3m/osx-terminal-themes))
 
 ## Development
 
