@@ -6,7 +6,7 @@
 
 * [Dotfiles and settings](#dotfiles-and-settings)
 * [Development](#development)
-    * [IDE](#ide)
+    * [Editor](#editor)
     * [Revision control](#revision-control)
     * [MAMP stack](#mamp-stack)
 * [Internet](#internet)
@@ -31,13 +31,22 @@
 
 ## Development
 
-### IDE
+### Editor
 
 [Atom](https://atom.io/) - A hackable text editor for the 21st Century
 
-[Sequel Pro](http://www.sequelpro.com/) - MySQL database management for Mac OS X
-
-[VirtualBox](https://www.virtualbox.org/wiki/Downloads) - A powerful x86 and AMD64/Intel64 virtualization product
+* Font: [Menlo](https://en.wikipedia.org/wiki/Menlo_(typeface)) *(12pt | 1.4)*
+* Theme: [native-ui](https://atom.io/packages/native-ui)
+* Syntax: [monokai](https://atom.io/packages/monokai)
+* Packages:
+   * [file-icons](https://atom.io/packages/file-icons)
+   * [Sublime-Style-Column-Selection](https://atom.io/packages/Sublime-Style-Column-Selection)
+   * [highlight-selected](https://atom.io/packages/highlight-selected)
+   * [pigments](https://atom.io/packages/pigments)
+   * [docblockr](https://atom.io/packages/docblockr)
+   * [language-htaccess](https://atom.io/packages/language-htaccess)
+   * [language-gitignore](https://atom.io/packages/language-gitignore)
+   * [autocomplete-php](https://atom.io/packages/autocomplete-php)
 
 ### Revision control
 
@@ -60,6 +69,8 @@ PHP ([brewed](https://github.com/Homebrew/homebrew-php) and [configured](mamp/ph
 MySQL ([brewed](https://github.com/Homebrew/homebrew/blob/master/Library/Formula/mysql.rb) or [original](http://dev.mysql.com/downloads/mysql/), [configured](mamp/mysql.md))
 
 Xdebug ([brewed](https://github.com/homebrew/homebrew-php/blob/master/Formula/php56-xdebug.rb) and [configured](mamp/ext-xdebug.ini))
+
+[Sequel Pro](http://www.sequelpro.com/) - MySQL database management for Mac OS X
 
 ## Internet
 
@@ -92,6 +103,8 @@ Xdebug ([brewed](https://github.com/homebrew/homebrew-php/blob/master/Formula/ph
 [Flashcontrol](https://chrome.google.com/webstore/detail/flashcontrol/mfidmkgnfgnkihnjeklbekckimkipmoe) - Prevents Flash content from loading unless you allow it
 
 ### Network and debugging
+
+[VirtualBox](https://www.virtualbox.org/wiki/Downloads) - A powerful x86 and AMD64/Intel64 virtualization product
 
 [Transmit](http://panic.com/transmit/) - The well-known FTP client
 
