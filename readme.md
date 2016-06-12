@@ -78,8 +78,6 @@ Xdebug ([brewed](https://github.com/homebrew/homebrew-php/blob/master/Formula/ph
 
 [Chrome](https://www.google.fr/chrome/browser/)
 
-[DuckDuckGo](https://duckduckgo.com/?q=%s) - The search engine that doesn't track you
-
 [Privacy Badger](https://www.eff.org/privacybadger) - Blocks spying ads and invisible trackers
 
 [Cache killer](https://chrome.google.com/webstore/detail/cache-killer/jpfbieopdmepaolggioebjmedmclkbap) - Automatically clear your browser cache before loading a page
