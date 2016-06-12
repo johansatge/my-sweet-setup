@@ -1,5 +1,6 @@
 "*":
   core:
+    allowPendingPaneItems: false
     themes: [
       "native-ui"
       "monokai"
@@ -14,5 +15,7 @@
     tabLength: 4
   "exception-reporting":
     userId: "157f2e91-ae38-38df-99c0-a02518323d8b"
+  "markdown-preview":
+    useGitHubStyle: true
   welcome:
     showOnStartup: false
