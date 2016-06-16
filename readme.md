@@ -4,9 +4,9 @@
 
 ---
 
-* [Dotfiles and settings](#dotfiles-and-settings)
 * [Development](#development)
     * [Editor](#editor)
+    * [Terminal](#terminal)
     * [Revision control](#revision-control)
     * [MAMP stack](#mamp-stack)
 * [Internet](#internet)
@@ -18,16 +18,6 @@
 * [Messaging](#messaging)
 * [Photo and Imaging](#photo-and-imaging)
 * [Video](#video)
-
-## Dotfiles and settings
-
-[Oh My ZSH](http://ohmyz.sh) - An open source framework for managing your ZSH configuration
-
-[.zshrc](shell/.zshrc) - ZSH settings
-
-[johan.zsh-theme](shell/johan.zsh-theme) - Oh My ZSH theme
-
-[johan.terminal](shell/johan.terminal) - Terminal theme (based on [Monokai Soda](https://github.com/lysyi3m/osx-terminal-themes))
 
 ## Development
 
@@ -47,6 +37,16 @@
    * [language-htaccess](https://atom.io/packages/language-htaccess)
    * [language-gitignore](https://atom.io/packages/language-gitignore)
    * [autocomplete-php](https://atom.io/packages/autocomplete-php)
+
+### Terminal
+
+[iTerm](https://www.iterm2.com) - Mac OS Terminal Replacement ([configured](shell/com.googlecode.iterm2.plist))
+
+[Oh My ZSH](http://ohmyz.sh) - An open source framework for managing your ZSH configuration
+
+[.zshrc](shell/.zshrc) - ZSH settings
+
+[johan.zsh-theme](shell/johan.zsh-theme) - Oh My ZSH theme
 
 ### Revision control
 
