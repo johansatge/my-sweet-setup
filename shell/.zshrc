@@ -18,6 +18,15 @@ export PATH="/Users/johan/.depot_tools:$PATH"
 export PATH="/Applications/Hugin/HuginTools:$PATH"
 export PATH="/usr/local/share/python:${PATH}"
 
+# NVM
+
+export NVM_DIR="/Users/j.satge/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"
+
+# GIT
+
+export GIT_EDITOR=nano
+
 # Aliases
 
 alias nwjs="/Applications/nwjs.app/Contents/MacOS/nwjs"
