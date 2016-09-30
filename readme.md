@@ -122,8 +122,6 @@ Xdebug ([brewed](https://github.com/homebrew/homebrew-php/blob/master/Formula/ph
 
 [Carbon Copy Cloner](http://bombich.com/) - Mac Backup Software
 
-[Dropbox](https://www.dropbox.com/)
-
 ### OSX enhancement
 
 [Alfred](http://www.alfredapp.com/) - An award-winning productivity application for Mac OS X
@@ -131,6 +129,8 @@ Xdebug ([brewed](https://github.com/homebrew/homebrew-php/blob/master/Formula/ph
 [iStat Menus](http://bjango.com/mac/istatmenus/) - An advanced Mac system monitor for your menubar
 
 [Spectacle](http://spectacleapp.com) - Move and resize windows with ease
+
+[Suspicious Package](http://www.mothersruin.com/software/SuspiciousPackage) - An Application for Inspecting OS X Installer Packages
 
 [qlcolorcode](https://code.google.com/p/qlcolorcode/) - A Quick Look plugin for source code with syntax highlighting
 
@@ -143,8 +143,6 @@ Xdebug ([brewed](https://github.com/homebrew/homebrew-php/blob/master/Formula/ph
 [quicklook-csv](https://github.com/p2/quicklook-csv) - A QuickLook plugin for CSV files
 
 [qlImageSize](https://github.com/Nyx0uf/qlImageSize) - QuickLook plugin to display the dimensions and size of an image in the title bar
-
-[Suspicious Package](http://www.mothersruin.com/software/SuspiciousPackage/) - A Quick Look Plug-in for OS X Installer Package
 
 [QuickLook Video](https://github.com/Marginal/QLVideo) - Display thumbnails, static QuickLook previews, cover art and metadata for most types of video files
 
