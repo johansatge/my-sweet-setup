@@ -37,6 +37,8 @@
    * [language-htaccess](https://atom.io/packages/language-htaccess)
    * [language-gitignore](https://atom.io/packages/language-gitignore)
    * [autocomplete-php](https://atom.io/packages/autocomplete-php)
+   * [indent-guide-improved](https://atom.io/packages/indent-guide-improved)
+   * [auto-indent](https://atom.io/packages/auto-indent)
 
 ### Terminal
 
