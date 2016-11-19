@@ -172,6 +172,8 @@ Xdebug ([brewed](https://github.com/homebrew/homebrew-php/blob/master/Formula/ph
 
 [HandBrake](https://handbrake.fr/) & [HandbrakeCLI](https://trac.handbrake.fr/wiki/CLIGuide) - The open source video transcoder
 
+[Air Video Server HD](http://www.inmethod.com/) - Watch videos streamed instantly on your iOS device
+
 [Shotcut](http://shotcut.org/) - Cross-platform, open-source video editor
 
 [Adapter](https://www.macroplant.com/adapter/) - Converts Video, Audio and Images
