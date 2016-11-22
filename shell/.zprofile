@@ -30,3 +30,6 @@ export GIT_EDITOR=nano
 # Aliases
 
 alias nwjs="/Applications/nwjs.app/Contents/MacOS/nwjs"
+alias handbrake="/Applications/HandbrakeCLI"
+alias st="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
+alias stree="/Applications/SourceTree.app/Contents/MacOS/SourceTree"
