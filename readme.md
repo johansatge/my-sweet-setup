@@ -124,6 +124,8 @@ Xdebug ([brewed](https://github.com/homebrew/homebrew-php/blob/master/Formula/ph
 
 [Carbon Copy Cloner](http://bombich.com/) - Mac Backup Software
 
+[Shapes](http://shapesapp.com) - A Simple, yet Powerful Diagram and Flowchart App
+
 ### OSX enhancement
 
 [Alfred](http://www.alfredapp.com/) - An award-winning productivity application for Mac OS X
