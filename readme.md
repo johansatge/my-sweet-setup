@@ -112,6 +112,8 @@ Xdebug ([brewed](https://github.com/homebrew/homebrew-php/blob/master/Formula/ph
 
 [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) - Intercepts and filters outgoing connections
 
+[Charles](https://www.charlesproxy.com/) - Web Debugging Proxy
+
 ## Productivity
 
 ### Data and lists
