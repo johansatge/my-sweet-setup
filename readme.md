@@ -1,6 +1,6 @@
 # My sweet setup
 
-> OSX tools and tips for MAMP developers and daily users
+> OSX environment developers and daily users
 
 ---
 
@@ -8,7 +8,6 @@
     * [Editor](#editor)
     * [Terminal](#terminal)
     * [Revision control](#revision-control)
-    * [MAMP stack](#mamp-stack)
 * [Internet](#internet)
     * [Chrome environment](#chrome-environment)
     * [Network and debugging](#network-and-debugging)
@@ -58,18 +57,6 @@
 
 [git-credential-osxkeychain](https://help.github.com/articles/caching-your-github-password-in-git/) - Caching your Git credentials when using HTTPS
 
-### MAMP stack
-
-Apache [2.4](https://httpd.apache.org/docs/2.4/) (comes with OSX Yosemite, [configured](mamp/httpd.conf) and [fixed](https://gist.github.com/johansatge/968f981128ab0ca49ce4))
-
-PHP ([brewed](https://github.com/Homebrew/homebrew-php) and [configured](mamp/php.ini))
-
-MySQL ([brewed](https://github.com/Homebrew/homebrew/blob/master/Library/Formula/mysql.rb) or [original](http://dev.mysql.com/downloads/mysql/), [configured](mamp/mysql.md))
-
-Xdebug ([brewed](https://github.com/homebrew/homebrew-php/blob/master/Formula/php56-xdebug.rb) and [configured](mamp/ext-xdebug.ini))
-
-[Sequel Pro](http://www.sequelpro.com/) - MySQL database management for Mac OS X
-
 ## Internet
 
 ### Chrome environment
@@ -102,8 +89,6 @@ Xdebug ([brewed](https://github.com/homebrew/homebrew-php/blob/master/Formula/ph
 
 [Transmit](http://panic.com/transmit/) - The well-known FTP client
 
-[Mailcatcher](http://mailcatcher.me/) - Super simple SMTP server ([Custom install on OSX 10.11](mamp/mailcatcher.md))
-
 [Modern.IE](https://www.modern.ie/fr-fr/virtualization-tools) - Official Microsoft virtual machines
 
 [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) - Intercepts and filters outgoing connections
@@ -123,6 +108,8 @@ Xdebug ([brewed](https://github.com/homebrew/homebrew-php/blob/master/Formula/ph
 [Carbon Copy Cloner](http://bombich.com/) - Mac Backup Software
 
 [Shapes](http://shapesapp.com) - A Simple, yet Powerful Diagram and Flowchart App
+
+[Sequel Pro](http://www.sequelpro.com/) - MySQL database management for Mac OS X
 
 ### OSX enhancement
 
