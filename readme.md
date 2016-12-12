@@ -1,6 +1,6 @@
-# My sweet setup
+# My Sweet Setup
 
-> OSX environment developers and daily users
+> OSX tools and tips for MAMP developers and daily users
 
 ---
 
@@ -54,8 +54,6 @@
 [DiffMerge](https://sourcegear.com/diffmerge/downloads.php) - An application to visually compare and merge files
 
 [PopHub](http://questbe.at/pophub/) - GitHub Feed Reader for OS X
-
-[git-credential-osxkeychain](https://help.github.com/articles/caching-your-github-password-in-git/) - Caching your Git credentials when using HTTPS
 
 ## Internet
 
