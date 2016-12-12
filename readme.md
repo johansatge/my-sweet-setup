@@ -44,11 +44,7 @@
 
 [iTerm](https://www.iterm2.com) - Mac OS Terminal Replacement ([configured](shell/com.googlecode.iterm2.plist))
 
-[Oh My ZSH](http://ohmyz.sh) - An open source framework for managing your ZSH configuration
-
-[.zshrc](shell/.zshrc) - ZSH settings
-
-[johan.zsh-theme](shell/johan.zsh-theme) - Oh My ZSH theme
+[.zprofile](shell/.zprofile) - ZSH settings
 
 ### Revision control
 
