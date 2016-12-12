@@ -1,6 +1,6 @@
-# My sweet setup
+# My Sweet Setup
 
-> OSX tools and tips for MAMP developers and daily users
+_OSX tools and tips for MAMP developers and daily users_
 
 ---
 
