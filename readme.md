@@ -56,8 +56,6 @@
 
 [PopHub](http://questbe.at/pophub/) - GitHub Feed Reader for OS X
 
-[git-credential-osxkeychain](https://help.github.com/articles/caching-your-github-password-in-git/) - Caching your Git credentials when using HTTPS
-
 ### MAMP stack
 
 Apache [2.4](https://httpd.apache.org/docs/2.4/) (comes with OSX Yosemite, [configured](mamp/httpd.conf) and [fixed](https://gist.github.com/johansatge/968f981128ab0ca49ce4))
