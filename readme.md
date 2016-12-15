@@ -43,7 +43,7 @@
 
 [iTerm](https://www.iterm2.com) - Mac OS Terminal Replacement ([configured](shell/com.googlecode.iterm2.plist))
 
-[.zprofile](shell/.zprofile) - ZSH settings
+[.zshrc](shell/.zshrc) - ZSH settings
 
 ### Revision control
 
