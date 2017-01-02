@@ -135,6 +135,8 @@
 
 [The Unarchiver](http://unarchiver.c3.cx/unarchiver) - The hugely popular unarchiving app for Mac OS X
 
+[coconut Battery](http://www.coconut-flavour.com/coconutbattery/) - Shows you live information about the battery in your Mac and iOS device
+
 ## Messaging
 
 [Skype](http://www.skype.com/)
