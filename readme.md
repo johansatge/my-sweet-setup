@@ -40,7 +40,7 @@
    * [pigments](https://atom.io/packages/pigments)
    * [Sublime-Style-Column-Selection](https://atom.io/packages/Sublime-Style-Column-Selection)
    
-[Sublime Text](https://www.sublimetext.com/) - The text editor you'll fall in love with ([configured](editor/Preferences.sublime-settings)
+[Sublime Text](https://www.sublimetext.com/) - The text editor you'll fall in love with ([configured](editor/Preferences.sublime-settings))
 
 * Font: [Menlo](https://en.wikipedia.org/wiki/Menlo_(typeface)) *(12pt | 1.4)*
 * Theme: [Sienna](https://packagecontrol.io/packages/Theme - Sienna)
