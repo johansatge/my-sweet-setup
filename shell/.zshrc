@@ -77,15 +77,6 @@ export PATH="/Applications/Hugin/HuginTools:$PATH"
 export PATH="/usr/local/share/python:$PATH"
 
 #
-# Node & NVM
-#
-
-export NODE_PATH=/usr/local/lib/node_modules
-
-export NVM_DIR="/Users/johan/.nvm"
-[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"
-
-#
 # Git settings
 #
 
