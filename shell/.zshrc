@@ -39,6 +39,12 @@ function preexec()
 }
 
 #
+# Misc settings
+#
+
+setopt auto_cd
+
+#
 # History settings
 #
 
