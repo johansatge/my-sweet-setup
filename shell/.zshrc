@@ -23,7 +23,7 @@ function precmd()
   # Git status
   if git rev-parse --git-dir > /dev/null 2>&1; then
     git_color=$([[ $(git status --porcelain | tail -n1) == "" ]] && echo "%F{green}" || echo "%F{red}")
-    git_branch=$(git branch | grep \* | cut -d ' ' -f2)
+    git_branch=$(git rev-parse --abbrev-ref HEAD 2> /dev/null)
     if [[ $git_branch == "" ]]; then
       git_branch="no-branch"
     fi
