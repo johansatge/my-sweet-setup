@@ -336,11 +336,15 @@
 	<key>NSWindow Frame NSFontPanel</key>
 	<string>1409 110 445 103 0 0 1920 1057 </string>
 	<key>NSWindow Frame Preferences</key>
-	<string>301 493 606 456 0 0 1920 1057 </string>
+	<string>301 594 606 456 0 0 1920 1057 </string>
+	<key>NSWindow Frame SUUpdateAlert</key>
+	<string>650 499 620 392 0 0 1920 1057 </string>
+	<key>NSWindow Frame UKCrashReporter</key>
+	<string>155 473 592 584 0 0 1920 1057 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>705 312 1215 728 0 0 1920 1057 </string>
+	<string>8 103 1900 928 0 0 1920 1057 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>189 36 1075 707 0 0 1920 1057 </string>
+	<string>189 36 1060 707 0 0 1920 1057 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
 	<string>762 32 1075 707 0 0 1920 1057 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
@@ -1130,6 +1134,8 @@
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
 	<integer>0</integer>
+	<key>NoSyncPermissionToShowTip</key>
+	<false/>
 	<key>NoSyncTimeOfFirstLaunchOfVersionWithTip</key>
 	<real>486726720.57996899</real>
 	<key>NoSyncTimeOfLastPromo</key>
@@ -1200,7 +1206,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2016-06-10T12:10:08Z</date>
+	<date>2017-02-02T19:54:28Z</date>
 	<key>SavePasteHistory</key>
 	<false/>
 	<key>Secure Input</key>
@@ -1225,6 +1231,8 @@
 	<integer>10</integer>
 	<key>TripleClickSelectsFullWrappedLines</key>
 	<false/>
+	<key>UKCrashReporterLastCrashReportDate</key>
+	<real>1478118784</real>
 	<key>URLHandlersByGuid</key>
 	<dict/>
 	<key>UseBorder</key>
@@ -1243,8 +1251,12 @@
 	<integer>3</integer>
 	<key>WordCharacters</key>
 	<string>/-+\~_.</string>
+	<key>findIgnoreCase_iTerm</key>
+	<true/>
+	<key>findRegex_iTerm</key>
+	<false/>
 	<key>iTerm Version</key>
-	<string>3.0.0</string>
+	<string>3.0.7</string>
 	<key>kCPKSelectionViewPreferredModeKey</key>
 	<integer>0</integer>
 	<key>kCPKSelectionViewShowHSBTextFieldsKey</key>
