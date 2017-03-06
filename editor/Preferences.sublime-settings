@@ -13,10 +13,10 @@
 	],
 	"font_face": "Menlo",
 	"font_options":
-	{
-		"no_round": false,
-		"subpixel_antialias": true
-	},
+	[
+		"no_round",
+		"subpixel_antialias"
+	],
 	"font_size": 12,
 	"highlight_line": true,
 	"ignored_packages":
