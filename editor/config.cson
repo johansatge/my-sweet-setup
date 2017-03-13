@@ -1,23 +1,72 @@
 "*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "6325ec04-0111-44b9-b65d-9321c5979005"
+    php:
+      cs_fixer_path: "/usr/local/bin/php-cs-fixer"
+  "autocomplete-php":
+    executablePath: '''
+      /usr/local/opt/php56/bin/php
+
+    '''
   core:
     allowPendingPaneItems: false
+    disabledPackages: [
+      "metrics"
+      "about"
+      "archive-view"
+      "autocomplete-snippets"
+      "autosave"
+      "background-tips"
+      "bookmarks"
+      "exception-reporting"
+      "language-c"
+      "language-clojure"
+      "language-csharp"
+      "language-go"
+      "language-java"
+      "language-less"
+      "language-objective-c"
+      "language-perl"
+      "language-python"
+      "language-ruby"
+      "language-ruby-on-rails"
+      "language-toml"
+      "package-generator"
+      "snippets"
+      "welcome"
+      "autoflow"
+    ]
+    openEmptyEditorOnStart: false
+    restorePreviousWindowsOnStart: false
+    telemetryConsent: "no"
     themes: [
       "native-ui"
       "monokai"
     ]
-  docblockr:
-    param_description: false
   editor:
     fontFamily: "Menlo"
     fontSize: 12
-    lineHeight: 1.4
+    lineHeight: 1.5
+    preferredLineLength: 120
     showInvisibles: true
-    tabLength: 4
   "exception-reporting":
-    userId: "157f2e91-ae38-38df-99c0-a02518323d8b"
+    userId: "099fb1ee-8ae9-9711-b585-86b591b68543"
+  "git-diff":
+    showIconsInEditorGutter: true
+  linter:
+    displayLinterInfo: false
+    errorPanelHeight: 63
+    statusIconPosition: "Right"
+  "linter-eslint": {}
   "markdown-preview":
     useGitHubStyle: true
+  tabs: {}
+  "tree-view": {}
   welcome:
     showOnStartup: false
   whitespace:
     ignoreWhitespaceOnCurrentLine: false
+".ini.source":
+  editor:
+    tabLength: 4

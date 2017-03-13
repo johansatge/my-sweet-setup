@@ -24,22 +24,21 @@
 
 [Atom](https://atom.io/) - A hackable text editor for the 21st Century ([configured](editor/config.cson))
 
-* Font: [Menlo](https://en.wikipedia.org/wiki/Menlo_(typeface)) *(12pt | 1.4)*
+* Font: [Menlo](https://en.wikipedia.org/wiki/Menlo_(typeface)) *(13pt | 1.5)*
 * Theme: [native-ui](https://atom.io/packages/native-ui)
 * Syntax: [monokai](https://atom.io/packages/monokai)
 * Packages:
-   * [auto-indent](https://atom.io/packages/auto-indent)
+   * [atom-beautify](https://atom.io/packages/atom-beautify)
    * [autocomplete-php](https://atom.io/packages/autocomplete-php)
-   * [color-picker](https://atom.io/packages/color-picker)
-   * [docblockr](https://atom.io/packages/docblockr)
    * [file-icons](https://atom.io/packages/file-icons)
    * [highlight-selected](https://atom.io/packages/highlight-selected)
    * [indent-guide-improved](https://atom.io/packages/indent-guide-improved)
    * [language-gitignore](https://atom.io/packages/language-gitignore)
    * [language-htaccess](https://atom.io/packages/language-htaccess)
-   * [pigments](https://atom.io/packages/pigments)
+   * [linter](https://atom.io/packages/linter)
+   * [linter-eslint](https://atom.io/packages/linter-eslint)
    * [Sublime-Style-Column-Selection](https://atom.io/packages/Sublime-Style-Column-Selection)
-   
+
 [Sublime Text](https://www.sublimetext.com/) - The text editor you'll fall in love with ([configured](editor/Preferences.sublime-settings))
 
 * Font: [Menlo](https://en.wikipedia.org/wiki/Menlo_(typeface)) *(12pt | 1.4)*
