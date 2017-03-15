@@ -36,6 +36,7 @@
       "snippets"
       "welcome"
       "autoflow"
+      "wrap-guide"
     ]
     openEmptyEditorOnStart: false
     restorePreviousWindowsOnStart: false
@@ -48,7 +49,6 @@
     fontFamily: "Menlo"
     fontSize: 12
     lineHeight: 1.5
-    preferredLineLength: 120
     showInvisibles: true
   "exception-reporting":
     userId: "099fb1ee-8ae9-9711-b585-86b591b68543"
