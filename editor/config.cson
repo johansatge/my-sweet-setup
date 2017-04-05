@@ -67,6 +67,3 @@
     showOnStartup: false
   whitespace:
     ignoreWhitespaceOnCurrentLine: false
-".ini.source":
-  editor:
-    tabLength: 4
