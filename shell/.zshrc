@@ -86,6 +86,8 @@ export GIT_EDITOR=nano
 # Aliases
 #
 
-alias nwjs="/Applications/nwjs.app/Contents/MacOS/nwjs"
+alias atom="/Applications/Atom.app/Contents/Resources/app/atom.sh"
 alias handbrake="/Applications/HandbrakeCLI"
+alias nwjs="/Applications/nwjs.app/Contents/MacOS/nwjs"
 alias st="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
+alias stree="/Applications/SourceTree.app/Contents/Resources/stree"
