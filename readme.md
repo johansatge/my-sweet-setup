@@ -37,6 +37,7 @@
    * [language-htaccess](https://atom.io/packages/language-htaccess)
    * [linter](https://atom.io/packages/linter)
    * [linter-eslint](https://atom.io/packages/linter-eslint)
+   * [remote-sync](https://atom.io/packages/remote-sync)
    * [Sublime-Style-Column-Selection](https://atom.io/packages/Sublime-Style-Column-Selection)
 
 [Sublime Text](https://www.sublimetext.com/) - The text editor you'll fall in love with ([configured](editor/Preferences.sublime-settings))
