@@ -79,8 +79,6 @@
 
 [Cache killer](https://chrome.google.com/webstore/detail/cache-killer/jpfbieopdmepaolggioebjmedmclkbap) - Automatically clear your browser cache before loading a page
 
-[Choco Chip](https://chrome.google.com/webstore/detail/chocochip-cookie-manager/cdllihdpcibkhhkidaicoeeiammjkokm) - Fast, easy-to-use cookie manager
-
 [JSON Formatter](https://github.com/callumlocke/json-formatter) - Chrome extension for printing JSON and JSONP nicely
 
 [The QR Code Extension](https://chrome.google.com/webstore/detail/the-qr-code-extension/oijdcdmnjjgnnhgljmhkjlablaejfeeb) - QR Code generator
@@ -88,8 +86,6 @@
 [Form Filler](https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) - Fills all form inputs in a page with dummy data
 
 [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl) - Screen capture your current page in entirety and reliably
-
-[Visual Event](https://chrome.google.com/webstore/detail/visual-event/pbmmieigblcbldgdokdjpioljjninaim) - Know what event is bound on each dom element
 
 [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh) - Resize browser window to emulate various screen resolutions
 
@@ -112,6 +108,10 @@
 ### Data and lists
 
 [Wunderlist](https://www.wunderlist.com) - To-do list, reminders, errands
+
+[WorkFlowy](https://workflowy.com/) - Organize your brain
+
+[Things](https://culturedcode.com/things/) - Your to-do list for Mac and iOS
 
 [1Password](https://agilebits.com/onepassword) - Put passwords in their place
 
@@ -168,6 +168,8 @@
 [ImageOptim](https://imageoptim.com/) - Better *Save For Web*
 
 ## Video
+
+[IINA](https://lhc70000.github.io/iina/) - The modern video player for macOS
 
 [VLC](https://www.videolan.org/vlc/)
 
