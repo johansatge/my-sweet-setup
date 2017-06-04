@@ -159,6 +159,8 @@
 
 ## Photo and Imaging
 
+[Affinity Photo](https://affinity.serif.com/en-gb/photo/) - Professional photo editing software
+
 [Monosnap](https://monosnap.com/welcome) - Make screenshots - Draw on it - Shoot video and share your files
 
 [Lyn](http://www.lynapp.com/) - Lightweight image browser and viewer
