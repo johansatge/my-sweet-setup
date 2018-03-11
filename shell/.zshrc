@@ -75,6 +75,7 @@ export PATH="/usr/local/sbin:$PATH"
 export PATH="/Users/johan/.depot_tools:$PATH"
 export PATH="/Applications/Hugin/HuginTools:$PATH"
 export PATH="/usr/local/share/python:$PATH"
+export PATH="/usr/local/go/bin:$PATH"
 
 #
 # Git settings
