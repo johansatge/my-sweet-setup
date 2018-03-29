@@ -4,6 +4,10 @@
       _analyticsUserId: "6325ec04-0111-44b9-b65d-9321c5979005"
     php:
       cs_fixer_path: "/usr/local/bin/php-cs-fixer"
+  "atom-package-deps":
+    ignored: [
+      "linter-ui-default"
+    ]
   "autocomplete-php":
     executablePath: '''
       /usr/local/opt/php56/bin/php
@@ -31,15 +35,12 @@
       "language-python"
       "language-ruby"
       "language-ruby-on-rails"
-      "language-toml"
       "package-generator"
       "snippets"
       "welcome"
       "autoflow"
-      "wrap-guide"
     ]
     openEmptyEditorOnStart: false
-    restorePreviousWindowsOnStart: false
     telemetryConsent: "no"
     themes: [
       "native-ui"
@@ -49,21 +50,29 @@
     fontFamily: "Menlo"
     fontSize: 12
     lineHeight: 1.5
+    preferredLineLength: 120
     showInvisibles: true
   "exception-reporting":
     userId: "099fb1ee-8ae9-9711-b585-86b591b68543"
   "git-diff":
     showIconsInEditorGutter: true
-  linter:
-    displayLinterInfo: false
-    errorPanelHeight: 63
-    statusIconPosition: "Right"
+  linter: {}
   "linter-eslint": {}
+  "linter-ui-default": {}
   "markdown-preview":
     useGitHubStyle: true
+  "prettier-atom":
+    formatOnSaveOptions:
+      enabled: true
+      isDisabledIfNoConfigFile: true
+      isDisabledIfNotInPackageJson: true
+      showInStatusBar: true
   tabs: {}
   "tree-view": {}
   welcome:
     showOnStartup: false
   whitespace:
     ignoreWhitespaceOnCurrentLine: false
+".ini.source":
+  editor:
+    tabLength: 4

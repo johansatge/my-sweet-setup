@@ -1,6 +1,6 @@
 # My Sweet Setup
 
-> OSX tools and tips for MAMP developers and daily users
+> OSX tools and tips for web developers and daily users
 
 ---
 
@@ -43,7 +43,7 @@
 [Sublime Text](https://www.sublimetext.com/) - The text editor you'll fall in love with ([configured](editor/Preferences.sublime-settings))
 
 * Font: [Menlo](https://en.wikipedia.org/wiki/Menlo_(typeface)) *(12pt | 1.4)*
-* Theme: [Sienna](https://packagecontrol.io/packages/Theme - Sienna)
+* Theme: [Sienna](https://packagecontrol.io/packages/Theme%20-%20Sienna)
 * Syntax: [monokai-extended](https://packagecontrol.io/packages/Monokai%20Extended)
 * Packages:
    * [Alignment](https://packagecontrol.io/packages/Alignment)
@@ -107,11 +107,7 @@
 
 ### Data and lists
 
-[Wunderlist](https://www.wunderlist.com) - To-do list, reminders, errands
-
 [WorkFlowy](https://workflowy.com/) - Organize your brain
-
-[Things](https://culturedcode.com/things/) - Your to-do list for Mac and iOS
 
 [1Password](https://agilebits.com/onepassword) - Put passwords in their place
 
@@ -165,8 +161,6 @@
 
 [Lyn](http://www.lynapp.com/) - Lightweight image browser and viewer
 
-[PhotoSync](https://www.photosync-app.com/) - Wireless transfer, backup and share photo and video files
-
 [ImageOptim](https://imageoptim.com/) - Better *Save For Web*
 
 ## Video
@@ -176,8 +170,6 @@
 [VLC](https://www.videolan.org/vlc/)
 
 [HandBrake](https://handbrake.fr/) & [HandbrakeCLI](https://trac.handbrake.fr/wiki/CLIGuide) - The open source video transcoder
-
-[Air Video Server HD](http://www.inmethod.com/) - Watch videos streamed instantly on your iOS device
 
 [Shotcut](http://shotcut.org/) - Cross-platform, open-source video editor
 

@@ -87,8 +87,20 @@ export GIT_EDITOR=nano
 # Aliases
 #
 
-alias atom="/Applications/Atom.app/Contents/Resources/app/atom.sh"
-alias handbrake="/Applications/HandbrakeCLI"
 alias nwjs="/Applications/nwjs.app/Contents/MacOS/nwjs"
+alias handbrake="/Applications/HandbrakeCLI"
 alias st="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
 alias stree="/Applications/SourceTree.app/Contents/Resources/stree"
+alias atom="/Applications/Atom.app/Contents/Resources/app/atom.sh"
+
+#
+# Language (for tools like GPG...)
+#
+
+export LANG="en"
+
+#
+# johansatge/data-hoarding
+#
+export DATA_HOARDING_PATH="/Volumes/AirData/Dev/Github/data-hoarding"
+. ${DATA_HOARDING_PATH}/aliases.sh
