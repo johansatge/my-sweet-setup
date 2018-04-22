@@ -73,6 +73,7 @@ setopt SHARE_HISTORY          # Share history between sessions
 export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/mysql/bin"
 export PATH="/usr/local/sbin:$PATH"
 export PATH="/Users/johan/.depot_tools:$PATH"
+export PATH="/Users/johan/.android_platform_tools:$PATH"
 export PATH="/Applications/Hugin/HuginTools:$PATH"
 export PATH="/usr/local/share/python:$PATH"
 export PATH="/usr/local/go/bin:$PATH"
