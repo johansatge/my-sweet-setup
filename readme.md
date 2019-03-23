@@ -9,6 +9,7 @@
     * [Terminal](#terminal)
     * [Revision control](#revision-control)
 * [Internet](#internet)
+    * [Firefox environment](#firefox-environment)
     * [Chrome environment](#chrome-environment)
     * [Network and debugging](#network-and-debugging)
 * [Productivity](#productivity)
@@ -70,6 +71,16 @@
 [PopHub](http://questbe.at/pophub/) - GitHub Feed Reader for OS X
 
 ## Internet
+
+### Firefox environment
+
+[Firefox](https://www.mozilla.org/en-US/firefox/new/)
+
+[uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+
+[QR Code Image Generator](https://addons.mozilla.org/en-US/firefox/addon/qr-code-image-generator/)
+
+[1Password](https://1password.com/browsers/firefox/)
 
 ### Chrome environment
 
