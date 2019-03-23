@@ -183,5 +183,3 @@
 [HandBrake](https://handbrake.fr/) & [HandbrakeCLI](https://trac.handbrake.fr/wiki/CLIGuide) - The open source video transcoder
 
 [Shotcut](http://shotcut.org/) - Cross-platform, open-source video editor
-
-[Adapter](https://www.macroplant.com/adapter/) - Converts Video, Audio and Images
