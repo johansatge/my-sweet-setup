@@ -147,6 +147,8 @@
 
 [The Unarchiver](http://unarchiver.c3.cx/unarchiver)
 
+[Rocket](https://matthewpalmer.net/rocket/)
+
 ## Messaging
 
 [AirMail](http://airmailapp.com/)
