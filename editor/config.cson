@@ -27,7 +27,6 @@
       "language-c"
       "language-clojure"
       "language-csharp"
-      "language-go"
       "language-java"
       "language-less"
       "language-objective-c"
@@ -39,6 +38,7 @@
       "snippets"
       "welcome"
       "autoflow"
+      "github"
     ]
     openEmptyEditorOnStart: false
     telemetryConsent: "no"
@@ -57,13 +57,14 @@
   "git-diff":
     showIconsInEditorGutter: true
   linter: {}
-  "linter-eslint": {}
+  "linter-eslint":
+    autofix:
+      fixOnSave: true
   "linter-ui-default": {}
   "markdown-preview":
     useGitHubStyle: true
   "prettier-atom":
     formatOnSaveOptions:
-      enabled: true
       isDisabledIfNoConfigFile: true
       isDisabledIfNotInPackageJson: true
       showInStatusBar: true
