@@ -49,12 +49,17 @@
 * Theme: [Sienna](https://packagecontrol.io/packages/Theme%20-%20Sienna)
 * Syntax: [monokai-extended](https://packagecontrol.io/packages/Monokai%20Extended)
 * Packages:
-   * [Alignment](https://packagecontrol.io/packages/Alignment)
-   * [EditorConfig](https://packagecontrol.io/packages/EditorConfig)
-   * [GitGutter](https://packagecontrol.io/packages/GitGutter)
-   * [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements)
    * [A File Icon](https://packagecontrol.io/packages/A%20File%20Icon)
-
+   * [CodeFormatter](https://packagecontrol.io/packages/CodeFormatter)
+   * [Dockerfile Syntax Highlighting](https://packagecontrol.io/packages/Dockerfile%20Syntax%20Highlighting)
+   * [Github Tools](https://packagecontrol.io/packages/Github%20Tools)
+   * [GraphQL](https://packagecontrol.io/packages/GraphQL)
+   * [JSX](https://packagecontrol.io/packages/JSX)
+   * [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements)
+   * [SimpleSync](https://packagecontrol.io/packages/SimpleSync)
+   * [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter)
+   * [SublimeLinter-eslint](https://packagecontrol.io/packages/SublimeLinter-eslint)
+   
 ### Terminal
 
 [iTerm](https://www.iterm2.com) - [configured](shell/com.googlecode.iterm2.plist)
