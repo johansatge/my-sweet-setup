@@ -52,6 +52,7 @@
    * [A File Icon](https://packagecontrol.io/packages/A%20File%20Icon)
    * [CodeFormatter](https://packagecontrol.io/packages/CodeFormatter)
    * [Dockerfile Syntax Highlighting](https://packagecontrol.io/packages/Dockerfile%20Syntax%20Highlighting)
+   * [EJS](https://packagecontrol.io/packages/EJS)
    * [Github Tools](https://packagecontrol.io/packages/Github%20Tools)
    * [GraphQL](https://packagecontrol.io/packages/GraphQL)
    * [JSX](https://packagecontrol.io/packages/JSX)
