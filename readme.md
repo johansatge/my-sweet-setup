@@ -55,6 +55,7 @@
    * [EJS](https://packagecontrol.io/packages/EJS)
    * [Github Tools](https://packagecontrol.io/packages/Github%20Tools)
    * [GraphQL](https://packagecontrol.io/packages/GraphQL)
+   * [HTML-CSS-JS Prettify](https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify)
    * [JSX](https://packagecontrol.io/packages/JSX)
    * [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements)
    * [SimpleSync](https://packagecontrol.io/packages/SimpleSync)
