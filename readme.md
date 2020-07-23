@@ -50,6 +50,7 @@
 * Syntax: [monokai-extended](https://packagecontrol.io/packages/Monokai%20Extended)
 * Packages:
    * [A File Icon](https://packagecontrol.io/packages/A%20File%20Icon)
+   * [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter)
    * [CodeFormatter](https://packagecontrol.io/packages/CodeFormatter)
    * [Dockerfile Syntax Highlighting](https://packagecontrol.io/packages/Dockerfile%20Syntax%20Highlighting)
    * [EJS](https://packagecontrol.io/packages/EJS)
