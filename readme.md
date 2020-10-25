@@ -165,7 +165,7 @@
 
 [Affinity Photo](https://affinity.serif.com/en-gb/photo/)
 
-[Monosnap](https://monosnap.com/welcome)
+[ScreenTray](https://screentray.com/)
 
 [Lyn](http://www.lynapp.com/)
 
