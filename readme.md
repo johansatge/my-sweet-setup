@@ -167,6 +167,8 @@
 
 [ScreenTray](https://screentray.com/)
 
+[CleanShot X](https://cleanshot.com/)
+
 [Lyn](http://www.lynapp.com/)
 
 [ImageOptim](https://imageoptim.com/)
