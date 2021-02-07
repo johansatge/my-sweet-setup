@@ -129,6 +129,8 @@
 
 [Sequel Pro](http://www.sequelpro.com/)
 
+[Disk Inventory X](http://www.derlien.com/)
+
 ### OSX enhancement
 
 [Alfred](http://www.alfredapp.com/)
@@ -180,5 +182,7 @@
 [VLC](https://www.videolan.org/vlc/)
 
 [HandBrake](https://handbrake.fr/) & [HandbrakeCLI](https://trac.handbrake.fr/wiki/CLIGuide)
+
+[Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)
 
 [Shotcut](http://shotcut.org/)
