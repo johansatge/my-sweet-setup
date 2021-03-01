@@ -20,6 +20,7 @@
 	],
 	"font_size": 12,
 	"highlight_line": true,
+	"hot_exit": false,
 	"ignored_packages":
 	[
 		"Vintage"
