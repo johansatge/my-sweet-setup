@@ -1,8 +1,5 @@
 {
-	"bold_folder_labels": false,
-	"close_windows_when_empty": true,
-	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
-	"default_line_ending": "LF",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
@@ -13,18 +10,8 @@
 		".composer"
 	],
 	"font_face": "Menlo",
-	"font_options":
-	[
-		"no_round",
-		"subpixel_antialias"
-	],
 	"font_size": 12,
 	"highlight_line": true,
-	"hot_exit": false,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
 	"indent_guide_options":
 	[
 		"draw_normal",
@@ -32,16 +19,15 @@
 	],
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
-	"rulers":
-	[
-		100,
-		120
-	],
 	"shift_tab_unindent": true,
 	"show_full_path": true,
 	"show_line_endings": true,
 	"tab_completion": false,
 	"tab_size": 2,
-	"theme": "Sienna.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"theme": "Default Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
 }
