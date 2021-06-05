@@ -47,17 +47,14 @@
 
 * Font: [Menlo](https://en.wikipedia.org/wiki/Menlo_(typeface)) *(12pt | 1.4)*
 * Theme: [Sienna](https://packagecontrol.io/packages/Theme%20-%20Sienna)
-* Syntax: [monokai-extended](https://packagecontrol.io/packages/Monokai%20Extended)
 * Packages:
    * [A File Icon](https://packagecontrol.io/packages/A%20File%20Icon)
    * [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter)
    * [CodeFormatter](https://packagecontrol.io/packages/CodeFormatter)
    * [Dockerfile Syntax Highlighting](https://packagecontrol.io/packages/Dockerfile%20Syntax%20Highlighting)
-   * [EJS](https://packagecontrol.io/packages/EJS)
+   * [EJS 2](https://packagecontrol.io/packages/EJS%202)
    * [Github Tools](https://packagecontrol.io/packages/Github%20Tools)
    * [GraphQL](https://packagecontrol.io/packages/GraphQL)
-   * [HTML-CSS-JS Prettify](https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify)
-   * [JSX](https://packagecontrol.io/packages/JSX)
    * [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements)
    * [SimpleSync](https://packagecontrol.io/packages/SimpleSync)
    * [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter)
