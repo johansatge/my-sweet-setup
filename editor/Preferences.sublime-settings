@@ -19,6 +19,10 @@
 	],
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
+	"rulers": [
+		100,
+		120
+	],
 	"shift_tab_unindent": true,
 	"show_full_path": true,
 	"show_line_endings": true,
