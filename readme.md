@@ -55,6 +55,7 @@
    * [EJS 2](https://packagecontrol.io/packages/EJS%202)
    * [Github Tools](https://packagecontrol.io/packages/Github%20Tools)
    * [GraphQL](https://packagecontrol.io/packages/GraphQL)
+   * [JsPrettier](https://packagecontrol.io/packages/JsPrettier)
    * [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements)
    * [SimpleSync](https://packagecontrol.io/packages/SimpleSync)
    * [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter)
