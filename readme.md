@@ -117,6 +117,14 @@
 
 [WorkFlowy](https://workflowy.com/)
 
+[Obsidian](https://obsidian.md/)
+
+With plugins:
+
+- Minimal Theme Settings
+- Outliner
+- Paste URL into selection
+
 [1Password](https://agilebits.com/onepassword)
 
 [Arq](https://www.arqbackup.com)
