@@ -71,6 +71,8 @@
 
 [Git](http://git-scm.com/downloads) - [configured](git)
 
+[Sublime Merge](https://www.sublimemerge.com/)
+
 [SourceTree](http://www.sourcetreeapp.com/)
 
 [DiffMerge](https://sourcegear.com/diffmerge/downloads.php)
