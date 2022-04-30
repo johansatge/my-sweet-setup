@@ -69,15 +69,15 @@
 
 ### Revision control
 
-[Git](http://git-scm.com/downloads) - [configured](git)
+[Git](https://git-scm.com/downloads) - [configured](git)
 
 [Sublime Merge](https://www.sublimemerge.com/)
 
-[SourceTree](http://www.sourcetreeapp.com/)
+[SourceTree](https://www.sourcetreeapp.com/)
 
 [DiffMerge](https://sourcegear.com/diffmerge/downloads.php)
 
-[PopHub](http://questbe.at/pophub/)
+[PopHub](https://questbe.at/pophub/)
 
 ## Internet
 
@@ -105,7 +105,7 @@
 
 [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 
-[Transmit](http://panic.com/transmit/)
+[Transmit](https://panic.com/transmit/)
 
 [Modern.IE](https://www.modern.ie/fr-fr/virtualization-tools)
 
@@ -131,31 +131,31 @@ With plugins:
 
 [Arq](https://www.arqbackup.com)
 
-[Carbon Copy Cloner](http://bombich.com/)
+[Carbon Copy Cloner](https://bombich.com/)
 
-[Shapes](http://shapesapp.com)
+[Shapes](https://shapesapp.com)
 
-[Sequel Pro](http://www.sequelpro.com/)
+[Sequel Pro](https://www.sequelpro.com/)
 
-[Disk Inventory X](http://www.derlien.com/)
+[Disk Inventory X](https://www.derlien.com/)
 
 ### OSX enhancement
 
-[Alfred](http://www.alfredapp.com/)
+[Alfred](https://www.alfredapp.com/)
 
-[iStat Menus](http://bjango.com/mac/istatmenus/)
+[iStat Menus](https://bjango.com/mac/istatmenus/)
 
-[Spectacle](http://spectacleapp.com)
+[Rectangle](https://rectangleapp.com/)
 
-[Suspicious Package](http://www.mothersruin.com/software/SuspiciousPackage)
+[Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage)
 
 [qlcolorcode](https://code.google.com/p/qlcolorcode/)
 
-[QuickLookStephen](http://whomwah.github.io/qlstephen/)
+[QuickLookStephen](https://whomwah.github.io/qlstephen/)
 
 [QLMarkdown](https://github.com/toland/qlmarkdown)
 
-[quick look JSON](http://www.sagtau.com/quicklookjson.html)
+[quick look JSON](https://www.sagtau.com/quicklookjson.html)
 
 [quicklook-csv](https://github.com/p2/quicklook-csv)
 
@@ -163,13 +163,13 @@ With plugins:
 
 [QuickLook Video](https://github.com/Marginal/QLVideo)
 
-[The Unarchiver](http://unarchiver.c3.cx/unarchiver)
+[The Unarchiver](https://unarchiver.c3.cx/unarchiver)
 
 [Rocket](https://matthewpalmer.net/rocket/)
 
 ## Messaging
 
-[AirMail](http://airmailapp.com/)
+[AirMail](https://airmailapp.com/)
 
 ## Photo and Imaging
 
@@ -179,7 +179,7 @@ With plugins:
 
 [CleanShot X](https://cleanshot.com/)
 
-[Lyn](http://www.lynapp.com/)
+[Lyn](https://www.lynapp.com/)
 
 [ImageOptim](https://imageoptim.com/)
 
@@ -193,4 +193,4 @@ With plugins:
 
 [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)
 
-[Shotcut](http://shotcut.org/)
+[Shotcut](https://shotcut.org/)
