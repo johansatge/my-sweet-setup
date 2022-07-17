@@ -91,6 +91,8 @@
 
 [1Password](https://1password.com/browsers/firefox/)
 
+[SponsorBlock](https://sponsor.ajay.app/)
+
 ### Chrome environment
 
 [Chrome](https://www.google.fr/chrome/browser/)
