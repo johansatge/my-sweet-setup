@@ -24,8 +24,6 @@
 
 [Sublime Text](https://www.sublimetext.com/) - [configured](editor/Preferences.sublime-settings)
 
-* Font: [Menlo](https://en.wikipedia.org/wiki/Menlo_(typeface)) *(12pt | 1.4)*
-* Theme: [Sienna](https://packagecontrol.io/packages/Theme%20-%20Sienna)
 * Packages:
    * [A File Icon](https://packagecontrol.io/packages/A%20File%20Icon)
    * [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter)
