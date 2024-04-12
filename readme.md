@@ -148,7 +148,7 @@ With plugins:
 
 [ImageOptim](https://imageoptim.com/)
 
-[Sip](https://sipapp.io)
+[ColorSlurp](https://colorslurp.com/)
 
 ## Video
 
