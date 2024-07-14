@@ -28,6 +28,8 @@
    * [A File Icon](https://packagecontrol.io/packages/A%20File%20Icon)
    * [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter)
    * [CodeFormatter](https://packagecontrol.io/packages/CodeFormatter)
+   * [ColorHelper](https://packagecontrol.io/packages/ColorHelper)
+   * [Compare Side-By-Side](https://packagecontrol.io/packages/Compare%20Side-By-Side)
    * [Dockerfile Syntax Highlighting](https://packagecontrol.io/packages/Dockerfile%20Syntax%20Highlighting)
    * [EJS 2](https://packagecontrol.io/packages/EJS%202)
    * [Github Tools](https://packagecontrol.io/packages/Github%20Tools)
