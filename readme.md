@@ -37,6 +37,7 @@
    * [JsPrettier](https://packagecontrol.io/packages/JsPrettier)
    * [LitElement Syntax Highlighting](https://github.com/JeremyBernier/LitElement-Syntax-Highlighting) (for [htm](https://github.com/developit/htm))
    * [LSP](https://lsp.sublimetext.io/)
+   * [LSP biome](https://github.com/sublimelsp/LSP-biome)
    * [LSP intelephense](https://github.com/sublimelsp/LSP-intelephense)
    * [LSP typescript](https://github.com/sublimelsp/LSP-typescript)
    * [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements)
