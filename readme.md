@@ -14,7 +14,7 @@
     * [Network and debugging](#network-and-debugging)
 * [Productivity](#productivity)
     * [Data and lists](#data-and-lists)
-    * [OSX enhancement](#osx-enhancement)
+    * [macOS enhancement](#osx-enhancement)
 * [Photo and Imaging](#photo-and-imaging)
 * [Video](#video)
 
@@ -113,7 +113,7 @@ With plugins:
 
 [Disk Inventory X](https://www.derlien.com/)
 
-### OSX enhancement
+### macOS enhancement
 
 [Alfred](https://www.alfredapp.com/)
 
@@ -140,6 +140,8 @@ With plugins:
 [The Unarchiver](https://unarchiver.c3.cx/unarchiver)
 
 [Rocket](https://matthewpalmer.net/rocket/)
+
+[Reflex](https://stuntsoftware.com/reflex/)
 
 ## Photo and Imaging
 
