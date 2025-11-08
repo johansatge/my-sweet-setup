@@ -22,6 +22,8 @@
 
 ### Editor
 
+[VS Code](https://code.visualstudio.com)
+
 [Sublime Text](https://www.sublimetext.com/) - [configured](editor/Preferences.sublime-settings)
 
 * Packages:
