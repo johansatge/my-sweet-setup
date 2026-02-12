@@ -22,7 +22,18 @@
 
 ### Editor
 
-[VS Code](https://code.visualstudio.com)
+[VS Code](https://code.visualstudio.com) / [Cursor](https://cursor.com)
+
+* Extensions:
+   * [Biome](https://marketplace.visualstudio.com/items?itemName=biomejs.biome)
+   * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+   * [lit-html](https://marketplace.visualstudio.com/items?itemName=bierner.lit-html)
+   * [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+   * [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+   * [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+   * [GitHub Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat)
+   * [Open in GitHub](https://marketplace.visualstudio.com/items?itemName=ziyasal.vscode-open-in-github)
+   * [SFTP](https://marketplace.visualstudio.com/items?itemName=liximomo.sftp)
 
 [Sublime Text](https://www.sublimetext.com/) - [configured](editor/Preferences.sublime-settings)
 
