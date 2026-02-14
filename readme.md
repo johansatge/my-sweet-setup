@@ -72,6 +72,8 @@
 
 [SourceTree](https://www.sourcetreeapp.com/)
 
+[Transmit](https://panic.com/transmit/)
+
 ## Internet
 
 ### Firefox environment
@@ -102,6 +104,8 @@
 
 [Charles](https://www.charlesproxy.com/)
 
+[Private Internet Access](https://www.privateinternetaccess.com/)
+
 ## Productivity
 
 ### Data and lists
@@ -125,6 +129,18 @@ With plugins:
 [Sequel Pro](https://www.sequelpro.com/)
 
 [Disk Inventory X](https://www.derlien.com/)
+
+[Dropbox](https://www.dropbox.com/)
+
+[Syncthing](https://syncthing.net/)
+
+[calibre](https://calibre-ebook.com/)
+
+[Spotify](https://www.spotify.com/)
+
+[Transmission](https://transmissionbt.com/)
+
+[Google Earth Pro](https://www.google.com/earth/versions/)
 
 ### macOS enhancement
 
@@ -156,6 +172,10 @@ With plugins:
 
 [Reflex](https://stuntsoftware.com/reflex/)
 
+[Latest](https://max.codes/latest/)
+
+[MacDroid](https://www.electronic.us/products/macdroid/)
+
 ## Photo and Imaging
 
 [Affinity Photo](https://affinity.serif.com/en-gb/photo/)
@@ -168,6 +188,8 @@ With plugins:
 
 [ColorSlurp](https://colorslurp.com/)
 
+[Gifski](https://gif.ski/)
+
 ## Video
 
 [IINA](https://lhc70000.github.io/iina/)
@@ -177,3 +199,5 @@ With plugins:
 [HandBrake](https://handbrake.fr/) & [HandbrakeCLI](https://trac.handbrake.fr/wiki/CLIGuide)
 
 [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)
+
+[SubsMarine](https://github.com/nattvara/submarine)
