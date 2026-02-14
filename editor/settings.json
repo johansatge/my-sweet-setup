@@ -1,0 +1,32 @@
+{
+  "security.workspace.trust.untrustedFiles": "open",
+  "workbench.activityBar.location": "hidden",
+  "editor.minimap.enabled": false,
+  "editor.rulers": [100, 120],
+  "git.blame.statusBarItem.enabled": true,
+  "editor.lineHeight": 1.6,
+  "workbench.colorTheme": "Monokai",
+  "editor.renderWhitespace": "all",
+  "git.openRepositoryInParentFolders": "never",
+  "biome.suggestInstallingGlobally": false,
+  "biome.requireConfiguration": true,
+  "editor.smoothScrolling": true,
+  "editor.tabSize": 2,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.startupEditor": "none",
+  "github.copilot.nextEditSuggestions.enabled": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.scrollBeyondLastLine": false,
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "chat.viewSessions.orientation": "stacked",
+  "chat.tools.terminal.autoApprove": {
+    "npm run jest": true,
+    "npm run biome:check": true,
+    "npm run biome-check": true,
+    "npm run test": true
+  }
+}

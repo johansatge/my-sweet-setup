@@ -22,7 +22,7 @@
 
 ### Editor
 
-[VS Code](https://code.visualstudio.com) / [Cursor](https://cursor.com)
+[VS Code](https://code.visualstudio.com) / [Cursor](https://cursor.com) - [configured](editor/settings.json)
 
 * Extensions:
    * [Biome](https://marketplace.visualstudio.com/items?itemName=biomejs.biome)
