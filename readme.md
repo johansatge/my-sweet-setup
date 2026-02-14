@@ -56,8 +56,7 @@
 ## Code revision control
 
 * [Git](https://git-scm.com/downloads) - [configured](git)
-* [Sublime Merge](https://www.sublimemerge.com/)
-* [SourceTree](https://www.sourcetreeapp.com/)
+* [Sublime Merge](https://www.sublimemerge.com/) (Git client)
 
 ## Browser
 
@@ -73,62 +72,62 @@
 
 ## Network and debugging
 
-* [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)
-* [Charles](https://www.charlesproxy.com/)
-* [Private Internet Access](https://www.privateinternetaccess.com/)
+* [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) (Network monitor and firewall)
+* [Charles](https://www.charlesproxy.com/) (HTTP proxy and debugger)
+* [Private Internet Access](https://www.privateinternetaccess.com/) (VPN)
 
-### Knowledge
+## Knowledge
 
-* [Obsidian](https://obsidian.md/)
+* [Obsidian](https://obsidian.md/) (Knowledge base and note-taking)
    * Minimal Theme Settings
    * Outliner
    * Paste URL into selection
-* [1Password](https://agilebits.com/onepassword)
-* [Shapes](https://shapesapp.com)
-* [Disk Inventory X](https://www.derlien.com/)
-* [Google Earth Pro](https://www.google.com/earth/versions/)
+* [1Password](https://agilebits.com/onepassword) (Password manager)
+* [Shapes](https://shapesapp.com) (Diagram and wireframe tool)
+* [Disk Inventory X](https://www.derlien.com/) (Disk usage visualizer)
+* [Google Earth Pro](https://www.google.com/earth/versions/) (3D globe and mapping)
 
 ## Data sync and backup
 
-* [Arq](https://www.arqbackup.com)
-* [Carbon Copy Cloner](https://bombich.com/)
-* [Sequel Pro](https://www.sequelpro.com/)
-* [Dropbox](https://www.dropbox.com/)
-* [Syncthing](https://syncthing.net/)
-* [Transmission](https://transmissionbt.com/)
-* [Transmit](https://panic.com/transmit/)
-* [MacDroid](https://www.electronic.us/products/macdroid/)
+* [Arq](https://www.arqbackup.com) (Cloud backup)
+* [Carbon Copy Cloner](https://bombich.com/) (Disk cloning and backup)
+* [Sequel Pro](https://www.sequelpro.com/) (MySQL database manager)
+* [Dropbox](https://www.dropbox.com/) (Cloud storage and sync)
+* [Syncthing](https://syncthing.net/) (P2P file synchronization)
+* [Transmission](https://transmissionbt.com/) (BitTorrent client)
+* [Transmit](https://panic.com/transmit/) (SFTP client)
+* [MacDroid](https://www.electronic.us/products/macdroid/) (Android file transfer)
 
 ## macOS enhancement
 
-* [iTerm](https://www.iterm2.com) - [configured](shell/com.googlecode.iterm2.plist)
+* [iTerm](https://www.iterm2.com) (Terminal) - [configured](shell/com.googlecode.iterm2.plist)
     * [.zshrc](shell/.zshrc)
-* [Alfred](https://www.alfredapp.com/)
-* [iStat Menus](https://bjango.com/mac/istatmenus/)
-* [Rectangle](https://rectangleapp.com/)
-* [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage)
-* [The Unarchiver](https://unarchiver.c3.cx/unarchiver)
-* [Rocket](https://matthewpalmer.net/rocket/)
-* [Reflex](https://stuntsoftware.com/reflex/)
-* [Latest](https://max.codes/latest/)
+* [Alfred](https://www.alfredapp.com/) (Productivity and launcher)
+* [iStat Menus](https://bjango.com/mac/istatmenus/) (System monitor)
+* [Rectangle](https://rectangleapp.com/) (Window manager)
+* [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage) (Inspect package files)
+* [The Unarchiver](https://unarchiver.c3.cx/unarchiver) (Archive extractor)
+* [Rocket](https://matthewpalmer.net/rocket/) (Emoji picker)
+* [Reflex](https://stuntsoftware.com/reflex/) (App permission monitor)
+* [Latest](https://max.codes/latest/) (App update checker)
 * QuickLook plugins: [qlcolorcode](https://code.google.com/p/qlcolorcode/), [QuickLookStephen](https://whomwah.github.io/qlstephen/), [QLMarkdown](https://github.com/toland/qlmarkdown), [quick look JSON](https://www.sagtau.com/quicklookjson.html), [quicklook-csv](https://github.com/p2/quicklook-csv), [qlImageSize](https://github.com/Nyx0uf/qlImageSize), [QuickLook Video](https://github.com/Marginal/QLVideo)
 
 ## Photo and Imaging
 
-* [Affinity Photo](https://affinity.serif.com/en-gb/photo/)
-* [CleanShot X](https://cleanshot.com/)
-* [Lyn](https://www.lynapp.com/)
-* [ImageOptim](https://imageoptim.com/)
-* [ColorSlurp](https://colorslurp.com/)
-* [Gifski](https://gif.ski/)
+* [Affinity Photo](https://affinity.serif.com/en-gb/photo/) (Photo editing)
+* [CleanShot X](https://cleanshot.com/) (Screenshot and screen recording)
+* [Lyn](https://www.lynapp.com/) (Image browser and viewer)
+* [ImageOptim](https://imageoptim.com/) (Image compression)
+* [ColorSlurp](https://colorslurp.com/) (Color picker)
+* [Gifski](https://gif.ski/) (GIF converter)
 
 ## Video
 
-* [IINA](https://lhc70000.github.io/iina/)
-* [VLC](https://www.videolan.org/vlc/)
-* [HandBrake](https://handbrake.fr/) & [HandbrakeCLI](https://trac.handbrake.fr/wiki/CLIGuide)
-* [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)
-* [SubsMarine](https://github.com/nattvara/submarine)
+* [IINA](https://lhc70000.github.io/iina/) (Media player)
+* [VLC](https://www.videolan.org/vlc/) (Media player)
+* [HandBrake](https://handbrake.fr/) & [HandbrakeCLI](https://trac.handbrake.fr/wiki/CLIGuide) (Video transcoder)
+* [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) (Video editing)
+* [SubsMarine](https://github.com/nattvara/submarine) (Subtitle downloader)
 
 ## Music
 
