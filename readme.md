@@ -4,23 +4,18 @@
 
 ---
 
-* [Development](#development)
-    * [Editor](#editor)
-    * [Terminal](#terminal)
-    * [Revision control](#revision-control)
-* [Internet](#internet)
-    * [Firefox environment](#firefox-environment)
-    * [Chrome environment](#chrome-environment)
-    * [Network and debugging](#network-and-debugging)
-* [Productivity](#productivity)
-    * [Data and lists](#data-and-lists)
-    * [macOS enhancement](#osx-enhancement)
+* [Code editor](#code-editor)
+* [Code revision control](#code-revision-control)
+* [Browser](#browser)
+* [Network and debugging](#network-and-debugging)
+* [Knowledge](#knowledge)
+* [Data sync and backup](#data-sync-and-backup)
+* [macOS enhancement](#macos-enhancement)
 * [Photo and Imaging](#photo-and-imaging)
 * [Video](#video)
+* [Music](#music)
 
-## Development
-
-### Editor
+## Code editor
 
 [VS Code](https://code.visualstudio.com) / [Cursor](https://cursor.com) - [configured](editor/settings.json)
 
@@ -57,147 +52,84 @@
    * [SimpleSync](https://packagecontrol.io/packages/SimpleSync)
    * [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter)
    * [SublimeLinter-eslint](https://packagecontrol.io/packages/SublimeLinter-eslint)
-   
-### Terminal
 
-[iTerm](https://www.iterm2.com) - [configured](shell/com.googlecode.iterm2.plist)
+## Code revision control
 
-[.zshrc](shell/.zshrc)
+* [Git](https://git-scm.com/downloads) - [configured](git)
+* [Sublime Merge](https://www.sublimemerge.com/)
+* [SourceTree](https://www.sourcetreeapp.com/)
 
-### Revision control
+## Browser
 
-[Git](https://git-scm.com/downloads) - [configured](git)
+* [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+   * [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+   * [QR Code Image Generator](https://addons.mozilla.org/en-US/firefox/addon/qr-code-image-generator/)
+   * [1Password](https://1password.com/browsers/firefox/)
+   * [SponsorBlock](https://sponsor.ajay.app/)
+* [Chrome](https://www.google.fr/chrome/browser/)
+   * [uBlock Origin](https://github.com/gorhill/uBlock)
+   * [JSON Formatter](https://github.com/callumlocke/json-formatter)
+   * [The QR Code Extension](https://chrome.google.com/webstore/detail/the-qr-code-extension/oijdcdmnjjgnnhgljmhkjlablaejfeeb)
 
-[Sublime Merge](https://www.sublimemerge.com/)
+## Network and debugging
 
-[SourceTree](https://www.sourcetreeapp.com/)
+* [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)
+* [Charles](https://www.charlesproxy.com/)
+* [Private Internet Access](https://www.privateinternetaccess.com/)
 
-## Internet
+### Knowledge
 
-### Firefox environment
+* [Obsidian](https://obsidian.md/)
+   * Minimal Theme Settings
+   * Outliner
+   * Paste URL into selection
+* [1Password](https://agilebits.com/onepassword)
+* [Shapes](https://shapesapp.com)
+* [Disk Inventory X](https://www.derlien.com/)
+* [Google Earth Pro](https://www.google.com/earth/versions/)
 
-[Firefox](https://www.mozilla.org/en-US/firefox/new/)
+## Data sync and backup
 
-[uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+* [Arq](https://www.arqbackup.com)
+* [Carbon Copy Cloner](https://bombich.com/)
+* [Sequel Pro](https://www.sequelpro.com/)
+* [Dropbox](https://www.dropbox.com/)
+* [Syncthing](https://syncthing.net/)
+* [Transmission](https://transmissionbt.com/)
+* [Transmit](https://panic.com/transmit/)
+* [MacDroid](https://www.electronic.us/products/macdroid/)
 
-[QR Code Image Generator](https://addons.mozilla.org/en-US/firefox/addon/qr-code-image-generator/)
+## macOS enhancement
 
-[1Password](https://1password.com/browsers/firefox/)
-
-[SponsorBlock](https://sponsor.ajay.app/)
-
-### Chrome environment
-
-[Chrome](https://www.google.fr/chrome/browser/)
-
-[uBlock Origin](https://github.com/gorhill/uBlock)
-
-[JSON Formatter](https://github.com/callumlocke/json-formatter)
-
-[The QR Code Extension](https://chrome.google.com/webstore/detail/the-qr-code-extension/oijdcdmnjjgnnhgljmhkjlablaejfeeb)
-
-### Network and debugging
-
-[Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)
-
-[Charles](https://www.charlesproxy.com/)
-
-[Private Internet Access](https://www.privateinternetaccess.com/)
-
-## Productivity
-
-### Data and lists
-
-[Obsidian](https://obsidian.md/)
-
-With plugins:
-
-- Minimal Theme Settings
-- Outliner
-- Paste URL into selection
-
-[1Password](https://agilebits.com/onepassword)
-
-[Arq](https://www.arqbackup.com)
-
-[Carbon Copy Cloner](https://bombich.com/)
-
-[Shapes](https://shapesapp.com)
-
-[Sequel Pro](https://www.sequelpro.com/)
-
-[Disk Inventory X](https://www.derlien.com/)
-
-[Dropbox](https://www.dropbox.com/)
-
-[Syncthing](https://syncthing.net/)
-
-[calibre](https://calibre-ebook.com/)
-
-[Spotify](https://www.spotify.com/)
-
-[Transmission](https://transmissionbt.com/)
-
-[Google Earth Pro](https://www.google.com/earth/versions/)
-
-[Transmit](https://panic.com/transmit/)
-
-### macOS enhancement
-
-[Alfred](https://www.alfredapp.com/)
-
-[iStat Menus](https://bjango.com/mac/istatmenus/)
-
-[Rectangle](https://rectangleapp.com/)
-
-[Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage)
-
-[qlcolorcode](https://code.google.com/p/qlcolorcode/)
-
-[QuickLookStephen](https://whomwah.github.io/qlstephen/)
-
-[QLMarkdown](https://github.com/toland/qlmarkdown)
-
-[quick look JSON](https://www.sagtau.com/quicklookjson.html)
-
-[quicklook-csv](https://github.com/p2/quicklook-csv)
-
-[qlImageSize](https://github.com/Nyx0uf/qlImageSize)
-
-[QuickLook Video](https://github.com/Marginal/QLVideo)
-
-[The Unarchiver](https://unarchiver.c3.cx/unarchiver)
-
-[Rocket](https://matthewpalmer.net/rocket/)
-
-[Reflex](https://stuntsoftware.com/reflex/)
-
-[Latest](https://max.codes/latest/)
-
-[MacDroid](https://www.electronic.us/products/macdroid/)
+* [iTerm](https://www.iterm2.com) - [configured](shell/com.googlecode.iterm2.plist)
+    * [.zshrc](shell/.zshrc)
+* [Alfred](https://www.alfredapp.com/)
+* [iStat Menus](https://bjango.com/mac/istatmenus/)
+* [Rectangle](https://rectangleapp.com/)
+* [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage)
+* [The Unarchiver](https://unarchiver.c3.cx/unarchiver)
+* [Rocket](https://matthewpalmer.net/rocket/)
+* [Reflex](https://stuntsoftware.com/reflex/)
+* [Latest](https://max.codes/latest/)
+* QuickLook plugins: [qlcolorcode](https://code.google.com/p/qlcolorcode/), [QuickLookStephen](https://whomwah.github.io/qlstephen/), [QLMarkdown](https://github.com/toland/qlmarkdown), [quick look JSON](https://www.sagtau.com/quicklookjson.html), [quicklook-csv](https://github.com/p2/quicklook-csv), [qlImageSize](https://github.com/Nyx0uf/qlImageSize), [QuickLook Video](https://github.com/Marginal/QLVideo)
 
 ## Photo and Imaging
 
-[Affinity Photo](https://affinity.serif.com/en-gb/photo/)
-
-[CleanShot X](https://cleanshot.com/)
-
-[Lyn](https://www.lynapp.com/)
-
-[ImageOptim](https://imageoptim.com/)
-
-[ColorSlurp](https://colorslurp.com/)
-
-[Gifski](https://gif.ski/)
+* [Affinity Photo](https://affinity.serif.com/en-gb/photo/)
+* [CleanShot X](https://cleanshot.com/)
+* [Lyn](https://www.lynapp.com/)
+* [ImageOptim](https://imageoptim.com/)
+* [ColorSlurp](https://colorslurp.com/)
+* [Gifski](https://gif.ski/)
 
 ## Video
 
-[IINA](https://lhc70000.github.io/iina/)
+* [IINA](https://lhc70000.github.io/iina/)
+* [VLC](https://www.videolan.org/vlc/)
+* [HandBrake](https://handbrake.fr/) & [HandbrakeCLI](https://trac.handbrake.fr/wiki/CLIGuide)
+* [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)
+* [SubsMarine](https://github.com/nattvara/submarine)
 
-[VLC](https://www.videolan.org/vlc/)
+## Music
 
-[HandBrake](https://handbrake.fr/) & [HandbrakeCLI](https://trac.handbrake.fr/wiki/CLIGuide)
-
-[Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)
-
-[SubsMarine](https://github.com/nattvara/submarine)
+* [Spotify](https://www.spotify.com/)
