@@ -72,8 +72,6 @@
 
 [SourceTree](https://www.sourcetreeapp.com/)
 
-[Transmit](https://panic.com/transmit/)
-
 ## Internet
 
 ### Firefox environment
@@ -141,6 +139,8 @@ With plugins:
 [Transmission](https://transmissionbt.com/)
 
 [Google Earth Pro](https://www.google.com/earth/versions/)
+
+[Transmit](https://panic.com/transmit/)
 
 ### macOS enhancement
 
