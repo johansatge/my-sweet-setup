@@ -77,6 +77,7 @@ export PATH="/Users/johan/.android_platform_tools:$PATH"
 export PATH="/Applications/Hugin/HuginTools:$PATH"
 export PATH="/usr/local/share/python:$PATH"
 export PATH="/usr/local/go/bin:$PATH"
+export PATH="$HOME/.local/bin:$PATH"
 
 #
 # Git settings
@@ -103,5 +104,10 @@ export LANG="en"
 #
 # johansatge/data-hoarding
 #
-export DATA_HOARDING_PATH="/Volumes/AirData/Dev/Github/data-hoarding"
+export DATA_HOARDING_PATH="/Volumes/AirData/Projets/Dev/data-hoarding"
 . ${DATA_HOARDING_PATH}/aliases.sh
+
+#
+# Homebrew
+#
+eval "$(/opt/homebrew/bin/brew shellenv)"
