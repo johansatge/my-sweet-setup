@@ -32,8 +32,24 @@ function precmd()
     git_status=""
   fi
 
+  # Node.js version (major.minor only, no v prefix)
+  if command -v node >/dev/null 2>&1; then
+    local nv verparts
+    nv=$(node -v 2>/dev/null)
+    if [[ -n $nv ]]; then
+      nv=${nv#v}
+      verparts=(${(s:.:)nv})
+      node_ver="${verparts[1]}.${verparts[2]}"
+      node_status=" %F{blue}[node:$node_ver]%f"
+    else
+      node_status=""
+    fi
+  else
+    node_status=""
+  fi
+
   # Final prompt
-  print -rP "$host_name$working_dir$git_status$elapsed_time"
+  print -rP "$host_name$working_dir$git_status$node_status$elapsed_time"
 }
 
 function preexec()
