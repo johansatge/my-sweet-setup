@@ -10,6 +10,7 @@ const ANSI = {
   cyan: '\u001b[36m',
   yellow: '\u001b[33m',
   green: '\u001b[32m',
+  dim: '\u001b[90m',
 }
 
 function color(text, code) {
@@ -50,21 +51,65 @@ function toResetSuffix(resetsAt, code, cycleSeconds = 0, format = 'hm') {
   return color(`→ ${diffH}h${diffM}m`, code)
 }
 
+/** Pro (Max) : quotas 5h / 7j dans rate_limits */
+function hasProRateLimits(rateLimits) {
+  if (!rateLimits || typeof rateLimits !== 'object') return false
+  return ['five_hour', 'seven_day'].some(k => {
+    const b = rateLimits[k]
+    return b && (b.used_percentage != null || b.resets_at != null || b.remaining != null)
+  })
+}
+
+function formatUsd(usd) {
+  const n = Number(usd)
+  if (!Number.isFinite(n)) return color('?', ANSI.dim)
+  if (n === 0) return color('$0.00', ANSI.yellow)
+  if (n < 0.01) return color(`$${n.toFixed(4)}`, ANSI.yellow)
+  return color(`$${n.toFixed(2)}`, ANSI.yellow)
+}
+
+function formatShortMs(ms) {
+  const n = Number(ms)
+  if (!Number.isFinite(n) || n < 0) return ''
+  if (n < 1000) return `${Math.round(n)}ms`
+  const s = Math.floor(n / 1000)
+  if (s < 60) return `${s}s`
+  const m = Math.floor(s / 60)
+  const rs = s % 60
+  return rs ? `${m}m${rs}s` : `${m}m`
+}
+
+function buildCostLine(cost) {
+  if (!cost || typeof cost !== 'object') return ''
+  const parts = []
+  parts.push(`💰 ${formatUsd(cost.total_cost_usd)}`)
+
+  const wallMs = cost.total_duration_ms
+  const wallN = Number(wallMs)
+  const wallShort = Number.isFinite(wallN) && wallN > 0 ? formatShortMs(wallMs) : ''
+  const timePart = wallShort ? `⏱ ${wallShort}` : ''
+  if (timePart) parts.push(color(timePart, ANSI.green))
+
+  return parts.join(' ')
+}
+
 const contextWindow = data.context_window ?? {}
 const rateLimits = data.rate_limits ?? {}
 const fiveHour = rateLimits.five_hour ?? {}
 const sevenDay = rateLimits.seven_day ?? {}
+const cost = data.cost
 
 // Model information
 const modelName = String(data.model?.display_name ?? 'Unknown model')
 const modelInfo = color(modelName, ANSI.magenta)
-const usedContextPct = Number(contextWindow.used_percentage)
+const rawUsedPct = contextWindow.used_percentage
+const usedContextPct = Number.isFinite(rawUsedPct) ? rawUsedPct : NaN
 
 // Token usage
 let tokenInfo = ''
 const totalIn = Number(contextWindow.total_input_tokens)
 const totalOut = Number(contextWindow.total_output_tokens)
-if (Number.isFinite(totalIn) && Number.isFinite(totalOut) && totalIn >= 0 && totalOut >= 0) {
+if (Number.isFinite(totalIn) && Number.isFinite(totalOut)) {
   const inK = Math.round(totalIn / 1000)
   const outK = Math.round(totalOut / 1000)
   const totalPctInfo = Number.isFinite(usedContextPct)
@@ -73,18 +118,22 @@ if (Number.isFinite(totalIn) && Number.isFinite(totalOut) && totalIn >= 0 && tot
   tokenInfo = ` ${color(`↑${inK}k ↓${outK}k`, ANSI.cyan)}${totalPctInfo}`
 }
 
-// Rate limits (5h)
-const fivePct = fiveHour.used_percentage
-const fiveResetSuffix = toResetSuffix(fiveHour.resets_at, ANSI.yellow, 5 * 3600)
-const hourlyBase = color(`⚡ ${toRoundedPercentOrUnknown(fivePct)}`, ANSI.yellow)
-const hourlyInfo = fiveResetSuffix ? `${hourlyBase} ${fiveResetSuffix}` : hourlyBase
+let quotaLine = ''
+if (hasProRateLimits(rateLimits)) {
+  const fivePct = fiveHour.used_percentage
+  const fiveResetSuffix = toResetSuffix(fiveHour.resets_at, ANSI.yellow, 5 * 3600)
+  const hourlyBase = color(`⚡ ${toRoundedPercentOrUnknown(fivePct)}`, ANSI.yellow)
+  const hourlyInfo = fiveResetSuffix ? `${hourlyBase} ${fiveResetSuffix}` : hourlyBase
 
-// Rate limits (7d)
-const weekPct = sevenDay.used_percentage
-const weekResetSuffix = toResetSuffix(sevenDay.resets_at, ANSI.green, 0, 'dh')
-const weeklyBase = color(`🕒 ${toRoundedPercentOrUnknown(weekPct)}`, ANSI.green)
-const weeklyInfo = weekResetSuffix ? `${weeklyBase} ${weekResetSuffix}` : weeklyBase
+  const weekPct = sevenDay.used_percentage
+  const weekResetSuffix = toResetSuffix(sevenDay.resets_at, ANSI.green, 0, 'dh')
+  const weeklyBase = color(`🕒 ${toRoundedPercentOrUnknown(weekPct)}`, ANSI.green)
+  const weeklyInfo = weekResetSuffix ? `${weeklyBase} ${weekResetSuffix}` : weeklyBase
 
-process.stdout.write(
-  `🦀 ${modelInfo}${tokenInfo}\n      ${hourlyInfo} ${weeklyInfo}\n`
-)
+  quotaLine = `${hourlyInfo} ${weeklyInfo}`
+} else {
+  const costLine = buildCostLine(cost)
+  quotaLine = costLine || color('—', ANSI.dim)
+}
+
+process.stdout.write(`🦀 ${modelInfo}${tokenInfo}\n      ${quotaLine}\n`)
