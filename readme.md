@@ -20,15 +20,14 @@
 [VS Code](https://code.visualstudio.com) / [Cursor](https://cursor.com) - [configured](editor/settings.json)
 
 * Extensions:
-   * [Biome](https://marketplace.visualstudio.com/items?itemName=biomejs.biome)
+   * [Claude Code](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code)
    * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+   * [GitHub Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat)
    * [lit-html](https://marketplace.visualstudio.com/items?itemName=bierner.lit-html)
    * [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+   * [Open in GitHub](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-open-in-github)
    * [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-   * [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
-   * [GitHub Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat)
-   * [Open in GitHub](https://marketplace.visualstudio.com/items?itemName=ziyasal.vscode-open-in-github)
-   * [SFTP](https://marketplace.visualstudio.com/items?itemName=liximomo.sftp)
+   * [SFTP](https://marketplace.visualstudio.com/items?itemName=natizyskunk.sftp)
 
 [Sublime Text](https://www.sublimetext.com/) - [configured](editor/Preferences.sublime-settings)
 

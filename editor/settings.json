@@ -1,6 +1,5 @@
 {
   "security.workspace.trust.untrustedFiles": "open",
-  "workbench.activityBar.location": "hidden",
   "editor.minimap.enabled": false,
   "editor.rulers": [100, 120],
   "git.blame.statusBarItem.enabled": true,
@@ -28,5 +27,7 @@
     "npm run biome:check": true,
     "npm run biome-check": true,
     "npm run test": true
-  }
+  },
+  "claudeCode.preferredLocation": "sidebar",
+  "workbench.activityBar.location": "hidden"
 }
