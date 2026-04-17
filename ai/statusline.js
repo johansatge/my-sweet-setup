@@ -103,20 +103,16 @@ const cost = data.cost
 const modelName = String(data.model?.display_name ?? 'Unknown model')
 const modelInfo = color(modelName, ANSI.magenta)
 const rawUsedPct = contextWindow.used_percentage
-const usedContextPct = Number.isFinite(rawUsedPct) ? rawUsedPct : NaN
+const usedContextPct = Number.isFinite(rawUsedPct) ? rawUsedPct : 0
 
 // Token usage
-let tokenInfo = ''
-const totalIn = Number(contextWindow.total_input_tokens)
-const totalOut = Number(contextWindow.total_output_tokens)
-if (Number.isFinite(totalIn) && Number.isFinite(totalOut)) {
-  const inK = Math.round(totalIn / 1000)
-  const outK = Math.round(totalOut / 1000)
-  const totalPctInfo = Number.isFinite(usedContextPct)
-    ? ` ${color(`(${Math.round(usedContextPct)}%)`, ANSI.cyan)}`
-    : ''
-  tokenInfo = ` ${color(`↑${inK}k ↓${outK}k`, ANSI.cyan)}${totalPctInfo}`
-}
+const totalIn = Number(contextWindow.total_input_tokens) || 0
+const totalOut = Number(contextWindow.total_output_tokens) || 0
+const inK = Math.round(totalIn / 1000)
+const outK = Math.round(totalOut / 1000)
+const windowSize = Number(contextWindow.context_window_size) || 0
+const windowK = Math.round(windowSize / 1000)
+const tokenInfo = ` ${color(`↑${inK}k ↓${outK}k (${Math.round(usedContextPct)}% on ${windowK}k)`, ANSI.cyan)}`
 
 let quotaLine = ''
 if (hasProRateLimits(rateLimits)) {
