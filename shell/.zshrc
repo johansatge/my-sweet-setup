@@ -102,6 +102,22 @@ export PATH="$HOME/.local/bin:$PATH"
 export GIT_EDITOR=nano
 
 #
+# Run NVM when .nvmrc is present
+#
+if command -v nvm &>/dev/null || [[ -s "$NVM_DIR/nvm.sh" ]]; then
+  autoload -U add-zsh-hook
+  load-nvmrc() {
+    if [[ -f .nvmrc ]]; then
+      local version=$(cat .nvmrc)
+      echo "Found .nvmrc ($version)"
+      nvm use --silent
+    fi
+  }
+  add-zsh-hook chpwd load-nvmrc
+  load-nvmrc
+fi
+
+#
 # Aliases
 #
 
