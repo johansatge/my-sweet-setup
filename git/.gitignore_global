@@ -4,4 +4,4 @@
 .sass-cache
 node_modules
 npm-debug.log
-.claude
+.claude/settings.local.json
