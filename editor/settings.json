@@ -29,5 +29,7 @@
     "npm run test": true
   },
   "claudeCode.preferredLocation": "sidebar",
-  "workbench.activityBar.location": "hidden"
+  "workbench.activityBar.location": "hidden",
+  "workbench.browser.showInTitleBar": false,
+  "workbench.navigationControl.enabled": false
 }
