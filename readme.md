@@ -99,6 +99,7 @@
 
 ## macOS enhancement
 
+* [Ghostty](https://ghostty.org) (Terminal) - [configured](shell/config.ghostty)
 * [iTerm](https://www.iterm2.com) (Terminal) - [configured](shell/com.googlecode.iterm2.plist)
     * [.zshrc](shell/.zshrc)
 * [Alfred](https://www.alfredapp.com/) (Productivity and launcher)

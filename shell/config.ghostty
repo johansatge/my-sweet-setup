@@ -1,0 +1,43 @@
+# Installation:
+# ln -s "/path/to/my-sweet-setup/shell/config.ghostty" "/Users/johan/Library/Application Support/com.mitchellh.ghostty/config.ghostty"
+
+# Font
+font-family = Menlo
+font-size = 12
+adjust-cell-height = 5
+
+# Window
+window-padding-x = 6
+
+# Scrollback
+scrollback-limit = 10000
+
+# Cursor
+cursor-style = block
+cursor-style-blink = false
+
+# Colors
+split-divider-color = #8c8c8c
+background = #1e1e1e
+foreground = #c4c5b5
+cursor-color = #f6f7ec
+selection-background = #343434
+selection-foreground = #c4c5b5
+
+# ANSI palette (Monokai-like)
+palette = 0=#1a1a1a
+palette = 1=#f4005f
+palette = 2=#98e024
+palette = 3=#fa8419
+palette = 4=#9d65ff
+palette = 5=#f4005f
+palette = 6=#58d1eb
+palette = 7=#c4c5b5
+palette = 8=#625e4c
+palette = 9=#f4005f
+palette = 10=#98e024
+palette = 11=#e0d561
+palette = 12=#9d65ff
+palette = 13=#f4005f
+palette = 14=#58d1eb
+palette = 15=#f6f6ef
