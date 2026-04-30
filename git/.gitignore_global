@@ -1,5 +1,8 @@
-*~
 .DS_Store
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
 .idea
 .sass-cache
 node_modules
