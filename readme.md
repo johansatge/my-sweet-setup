@@ -17,7 +17,7 @@
 
 ## Code editor
 
-[VS Code](https://code.visualstudio.com) / [Cursor](https://cursor.com) - [configured](editor/settings.json)
+[VS Code](https://code.visualstudio.com) / [Cursor](https://cursor.com) - [configured](editor/vscode/settings.json)
 
 * Extensions:
    * [Claude Code](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code)
@@ -29,7 +29,7 @@
    * [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
    * [SFTP](https://marketplace.visualstudio.com/items?itemName=natizyskunk.sftp)
 
-[Sublime Text](https://www.sublimetext.com/) - [configured](editor/Preferences.sublime-settings)
+[Sublime Text](https://www.sublimetext.com/) - [configured](editor/sublime-text/Preferences.sublime-settings)
 
 * Packages:
    * [A File Icon](https://packagecontrol.io/packages/A%20File%20Icon)
