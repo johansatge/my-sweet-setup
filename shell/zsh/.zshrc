@@ -1,6 +1,3 @@
-# Installation:
-# ln -s /path/to/my-sweet-setup/shell/.zshrc ~/.zshrc
-
 #
 # ZSH prompt
 # ----------------------------------------------------------------------

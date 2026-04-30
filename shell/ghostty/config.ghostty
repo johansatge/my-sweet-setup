@@ -1,6 +1,3 @@
-# Installation:
-# ln -s "/path/to/my-sweet-setup/shell/config.ghostty" "/Users/johan/Library/Application Support/com.mitchellh.ghostty/config.ghostty"
-
 # Font
 font-family = Menlo
 font-size = 12

@@ -1,6 +1,27 @@
 # My Sweet Setup
 
-> OSX tools and tips for web developers and daily users
+> macOS tools and tips for web developers and daily users
+
+---
+
+## Installation
+
+Clone the repo and create symlinks:
+
+```sh
+git clone https://github.com/johansatge/my-sweet-setup.git /path/to/my-sweet-setup
+cd /path/to/my-sweet-setup
+
+# ZSH
+ln -sf "$PWD/shell/zsh/.zshrc" ~/.zshrc
+
+# Ghostty
+ln -sf "$PWD/shell/ghostty/config.ghostty" "~/Library/Application Support/com.mitchellh.ghostty/config.ghostty"
+
+# Git
+ln -sf "$PWD/git/.gitconfig" ~/.gitconfig
+ln -sf "$PWD/git/.gitignore_global" ~/.gitignore_global
+```
 
 ---
 
