@@ -4,7 +4,7 @@
 # Font
 font-family = Menlo
 font-size = 12
-adjust-cell-height = 5
+adjust-cell-height = 6
 
 # Window
 window-padding-x = 6
