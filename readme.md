@@ -21,6 +21,10 @@ ln -sf "$PWD/shell/ghostty/config.ghostty" "~/Library/Application Support/com.mi
 # Git
 ln -sf "$PWD/git/.gitconfig" ~/.gitconfig
 ln -sf "$PWD/git/.gitignore_global" ~/.gitignore_global
+
+# Claude Code
+ln -sf "$PWD/ai/claude/statusline.js" ~/.claude/statusline.js
+ln -sf "$PWD/ai/claude/settings.json" ~/.claude/settings.json
 ```
 
 ---

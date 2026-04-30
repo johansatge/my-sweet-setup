@@ -1,0 +1,95 @@
+{
+  "statusLine": {
+    "type": "command",
+    "command": "node /$HOME/.claude/statusline.js"
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "rtk hook claude"
+          }
+        ]
+      }
+    ]
+  },
+  "permissions": {
+    "allow": [
+      "Read",
+      "Glob",
+      "Grep",
+      "LS",
+
+      "Bash(ls *)",
+      "Bash(rtk ls *)",
+
+      "Bash(cat *)",
+      "Bash(rtk cat *)",
+
+      "Bash(read *)",
+      "Bash(rtk read *)",
+
+      "Bash(more *)",
+      "Bash(rtk more *)",
+
+      "Bash(less *)",
+      "Bash(rtk less *)",
+
+      "Bash(tail *)",
+      "Bash(rtk tail *)",
+
+      "Bash(head *)",
+      "Bash(rtk head *)",
+
+      "Bash(find *)",
+      "Bash(rtk find *)",
+
+      "Bash(grep *)",
+      "Bash(rtk grep *)",
+
+      "Bash(wc *)",
+      "Bash(rtk wc *)",
+
+      "Bash(du *)",
+      "Bash(rtk du *)",
+
+      "Bash(df *)",
+      "Bash(rtk df *)",
+
+      "Bash(sort *)",
+      "Bash(rtk sort *)",
+
+      "Bash(uniq *)",
+      "Bash(rtk uniq *)",
+
+      "Bash(cut *)",
+      "Bash(rtk cut *)",
+
+      "Bash(jq *)",
+      "Bash(rtk jq *)",
+
+      "Bash(git status)",
+      "Bash(git status *)",
+      "Bash(rtk git status)",
+      "Bash(rtk git status *)",
+
+      "Bash(git log)",
+      "Bash(git log *)",
+      "Bash(rtk git log)",
+      "Bash(rtk git log *)",
+
+      "Bash(git diff)",
+      "Bash(git diff *)",
+      "Bash(rtk git diff)",
+      "Bash(rtk git diff *)",
+
+      "Bash(git show)",
+      "Bash(git show *)",
+      "Bash(rtk git show)",
+      "Bash(rtk git show *)"
+    ]
+  }
+}
