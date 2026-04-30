@@ -99,9 +99,9 @@
 
 ## macOS enhancement
 
-* [Ghostty](https://ghostty.org) (Terminal) - [configured](shell/config.ghostty)
-* [iTerm](https://www.iterm2.com) (Terminal) - [configured](shell/com.googlecode.iterm2.plist)
-    * [.zshrc](shell/.zshrc)
+* [Ghostty](https://ghostty.org) (Terminal) - [configured](shell/ghostty/config.ghostty)
+* [iTerm](https://www.iterm2.com) (Terminal) - [configured](shell/iterm/com.googlecode.iterm2.plist)
+    * [.zshrc](shell/zsh/.zshrc)
 * [Alfred](https://www.alfredapp.com/) (Productivity and launcher)
 * [iStat Menus](https://bjango.com/mac/istatmenus/) (System monitor)
 * [Rectangle](https://rectangleapp.com/) (Window manager)
