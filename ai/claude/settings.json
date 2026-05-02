@@ -89,7 +89,67 @@
       "Bash(git show)",
       "Bash(git show *)",
       "Bash(rtk git show)",
-      "Bash(rtk git show *)"
+      "Bash(rtk git show *)",
+
+      "Bash(gh pr list)",
+      "Bash(gh pr list *)",
+      "Bash(rtk gh pr list)",
+      "Bash(rtk gh pr list *)",
+
+      "Bash(gh pr view)",
+      "Bash(gh pr view *)",
+      "Bash(rtk gh pr view)",
+      "Bash(rtk gh pr view *)",
+
+      "Bash(gh pr status)",
+      "Bash(gh pr status *)",
+      "Bash(rtk gh pr status)",
+      "Bash(rtk gh pr status *)",
+
+      "Bash(gh pr checks)",
+      "Bash(gh pr checks *)",
+      "Bash(rtk gh pr checks)",
+      "Bash(rtk gh pr checks *)",
+
+      "Bash(gh issue list)",
+      "Bash(gh issue list *)",
+      "Bash(rtk gh issue list)",
+      "Bash(rtk gh issue list *)",
+
+      "Bash(gh issue view)",
+      "Bash(gh issue view *)",
+      "Bash(rtk gh issue view)",
+      "Bash(rtk gh issue view *)",
+
+      "Bash(gh repo view)",
+      "Bash(gh repo view *)",
+      "Bash(rtk gh repo view)",
+      "Bash(rtk gh repo view *)",
+
+      "Bash(gh run list)",
+      "Bash(gh run list *)",
+      "Bash(rtk gh run list)",
+      "Bash(rtk gh run list *)",
+
+      "Bash(gh run view)",
+      "Bash(gh run view *)",
+      "Bash(rtk gh run view)",
+      "Bash(rtk gh run view *)",
+
+      "Bash(gh release list)",
+      "Bash(gh release list *)",
+      "Bash(rtk gh release list)",
+      "Bash(rtk gh release list *)",
+
+      "Bash(gh release view)",
+      "Bash(gh release view *)",
+      "Bash(rtk gh release view)",
+      "Bash(rtk gh release view *)",
+
+      "Bash(gh api)",
+      "Bash(gh api *)",
+      "Bash(rtk gh api)",
+      "Bash(rtk gh api *)"
     ]
   }
 }
