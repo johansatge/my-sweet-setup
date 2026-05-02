@@ -149,7 +149,57 @@
       "Bash(gh api)",
       "Bash(gh api *)",
       "Bash(rtk gh api)",
-      "Bash(rtk gh api *)"
+      "Bash(rtk gh api *)",
+
+      "Bash(npm ls)",
+      "Bash(npm ls *)",
+      "Bash(rtk npm ls)",
+      "Bash(rtk npm ls *)",
+
+      "Bash(npm list)",
+      "Bash(npm list *)",
+      "Bash(rtk npm list)",
+      "Bash(rtk npm list *)",
+
+      "Bash(npm info)",
+      "Bash(npm info *)",
+      "Bash(rtk npm info)",
+      "Bash(rtk npm info *)",
+
+      "Bash(npm outdated)",
+      "Bash(npm outdated *)",
+      "Bash(rtk npm outdated)",
+      "Bash(rtk npm outdated *)",
+
+      "Bash(npm audit)",
+      "Bash(npm audit *)",
+      "Bash(rtk npm audit)",
+      "Bash(rtk npm audit *)",
+
+      "Bash(pnpm ls)",
+      "Bash(pnpm ls *)",
+      "Bash(rtk pnpm ls)",
+      "Bash(rtk pnpm ls *)",
+
+      "Bash(pnpm list)",
+      "Bash(pnpm list *)",
+      "Bash(rtk pnpm list)",
+      "Bash(rtk pnpm list *)",
+
+      "Bash(pnpm info)",
+      "Bash(pnpm info *)",
+      "Bash(rtk pnpm info)",
+      "Bash(rtk pnpm info *)",
+
+      "Bash(pnpm outdated)",
+      "Bash(pnpm outdated *)",
+      "Bash(rtk pnpm outdated)",
+      "Bash(rtk pnpm outdated *)",
+
+      "Bash(pnpm audit)",
+      "Bash(pnpm audit *)",
+      "Bash(rtk pnpm audit)",
+      "Bash(rtk pnpm audit *)"
     ]
   }
 }
