@@ -21,6 +21,11 @@ cursor-color = #f6f7ec
 selection-background = #343434
 selection-foreground = #c4c5b5
 
+# Inherit working dir on new window, tab or split
+window-inherit-working-directory = true
+tab-inherit-working-directory = true
+split-inherit-working-directory = true
+
 # ANSI palette (Monokai-like)
 palette = 0=#1a1a1a
 palette = 1=#f4005f
