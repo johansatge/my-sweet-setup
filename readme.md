@@ -16,7 +16,7 @@ cd /path/to/my-sweet-setup
 ln -sf "$PWD/shell/zsh/.zshrc" ~/.zshrc
 
 # Ghostty
-ln -sf "$PWD/shell/ghostty/config.ghostty" "~/Library/Application Support/com.mitchellh.ghostty/config.ghostty"
+ln -sf "$PWD/shell/ghostty/config.ghostty" "$HOME/Library/Application Support/com.mitchellh.ghostty/config.ghostty"
 
 # Git
 ln -sf "$PWD/git/.gitconfig" ~/.gitconfig
