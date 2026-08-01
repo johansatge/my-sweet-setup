@@ -1,6 +1,8 @@
 # Font
 font-family = Menlo
 font-size = 12
+font-thicken = true
+font-thicken-strength = 50
 adjust-cell-height = 6
 
 # Window
@@ -13,33 +15,33 @@ scrollback-limit = 10000
 cursor-style = block
 cursor-style-blink = false
 
-# Colors
-split-divider-color = #8c8c8c
-background = #1e1e1e
-foreground = #c4c5b5
-cursor-color = #f6f7ec
-selection-background = #343434
-selection-foreground = #c4c5b5
+# Colors (matching the VS Code theme)
+split-divider-color = #e7e8ea
+background = #fbfbfb
+foreground = #474c50
+cursor-color = #ee810c
+selection-background = #d9e2f4
+selection-foreground = #474c50
 
 # Inherit working dir on new window, tab or split
 window-inherit-working-directory = true
 tab-inherit-working-directory = true
 split-inherit-working-directory = true
 
-# ANSI palette (Monokai-like)
-palette = 0=#1a1a1a
-palette = 1=#f4005f
-palette = 2=#98e024
-palette = 3=#fa8419
-palette = 4=#9d65ff
-palette = 5=#f4005f
-palette = 6=#58d1eb
-palette = 7=#c4c5b5
-palette = 8=#625e4c
-palette = 9=#f4005f
-palette = 10=#98e024
-palette = 11=#e0d561
-palette = 12=#9d65ff
-palette = 13=#f4005f
-palette = 14=#58d1eb
-palette = 15=#f6f6ef
+# ANSI palette (matching the VS Code theme)
+palette = 0=#474c50
+palette = 1=#df3939
+palette = 2=#53af2d
+palette = 3=#ee810c
+palette = 4=#3073bf
+palette = 5=#8f62bf
+palette = 6=#3da2c9
+palette = 7=#f6f7f9
+palette = 8=#6a778a
+palette = 9=#ee8c7a
+palette = 10=#6cbf43
+palette = 11=#e59000
+palette = 12=#1390df
+palette = 13=#b77adb
+palette = 14=#58b4d5
+palette = 15=#ffffff
