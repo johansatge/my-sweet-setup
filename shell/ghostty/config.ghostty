@@ -16,7 +16,7 @@ cursor-style = block
 cursor-style-blink = false
 
 # Colors (matching the VS Code theme)
-split-divider-color = #e7e8ea
+split-divider-color = #b3b9c3
 background = #fbfbfb
 foreground = #474c50
 cursor-color = #ee810c
