@@ -46,6 +46,7 @@ ln -sf "$PWD/ai/claude/settings.json" ~/.claude/settings.json
 
 * Extensions:
    * [Claude Code](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code)
+   * [Codex](https://marketplace.visualstudio.com/items?itemName=openai.chatgpt)
    * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
    * [GitHub Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat)
    * [lit-html](https://marketplace.visualstudio.com/items?itemName=bierner.lit-html)
