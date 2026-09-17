@@ -135,7 +135,7 @@ ln -sf "$PWD/ai/claude/settings.json" ~/.claude/settings.json
 * [Rocket](https://matthewpalmer.net/rocket/) (Emoji picker)
 * [Reflex](https://stuntsoftware.com/reflex/) (App permission monitor)
 * [Latest](https://max.codes/latest/) (App update checker)
-* QuickLook plugins: [qlcolorcode](https://code.google.com/p/qlcolorcode/), [QuickLookStephen](https://whomwah.github.io/qlstephen/), [QLMarkdown](https://github.com/toland/qlmarkdown), [quick look JSON](https://www.sagtau.com/quicklookjson.html), [quicklook-csv](https://github.com/p2/quicklook-csv), [qlImageSize](https://github.com/Nyx0uf/qlImageSize), [QuickLook Video](https://github.com/Marginal/QLVideo)
+* QuickLook plugins: [qlcolorcode](https://code.google.com/p/qlcolorcode/), [QuickLookStephen](https://whomwah.github.io/qlstephen/), [QLMarkdown](https://github.com/sbarex/QLMarkdown), [quick look JSON](https://www.sagtau.com/quicklookjson.html), [quicklook-csv](https://github.com/p2/quicklook-csv), [qlImageSize](https://github.com/Nyx0uf/qlImageSize), [QuickLook Video](https://github.com/Marginal/QLVideo)
 
 ## Photo and Imaging
 
