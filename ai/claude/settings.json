@@ -3,6 +3,8 @@
     "type": "command",
     "command": "node /$HOME/.claude/statusline.js"
   },
+  "promptSuggestionEnabled": false,
+  "effortLevel": "medium",
   "hooks": {
     "PreToolUse": [
       {
@@ -22,146 +24,190 @@
       "Glob",
       "Grep",
       "LS",
+
       "Bash(ls *)",
       "Bash(rtk ls *)",
+
       "Bash(cat *)",
       "Bash(rtk cat *)",
+
       "Bash(read *)",
       "Bash(rtk read *)",
+
       "Bash(more *)",
       "Bash(rtk more *)",
+
       "Bash(less *)",
       "Bash(rtk less *)",
+
       "Bash(tail *)",
       "Bash(rtk tail *)",
+
       "Bash(head *)",
       "Bash(rtk head *)",
+
       "Bash(find *)",
       "Bash(rtk find *)",
+
       "Bash(grep *)",
       "Bash(rtk grep *)",
+
       "Bash(wc *)",
       "Bash(rtk wc *)",
+
       "Bash(du *)",
       "Bash(rtk du *)",
+
       "Bash(df *)",
       "Bash(rtk df *)",
+
       "Bash(sort *)",
       "Bash(rtk sort *)",
+
       "Bash(uniq *)",
       "Bash(rtk uniq *)",
+
       "Bash(cut *)",
       "Bash(rtk cut *)",
+
       "Bash(jq *)",
       "Bash(rtk jq *)",
+
       "Bash(diff)",
       "Bash(diff *)",
       "Bash(rtk diff)",
       "Bash(rtk diff *)",
+
       "Bash(git status)",
       "Bash(git status *)",
       "Bash(rtk git status)",
       "Bash(rtk git status *)",
+
       "Bash(git log)",
       "Bash(git log *)",
       "Bash(rtk git log)",
       "Bash(rtk git log *)",
+
       "Bash(git diff)",
       "Bash(git diff *)",
       "Bash(rtk git diff)",
       "Bash(rtk git diff *)",
+
       "Bash(git show)",
       "Bash(git show *)",
       "Bash(rtk git show)",
       "Bash(rtk git show *)",
+
       "Bash(gh pr list)",
       "Bash(gh pr list *)",
       "Bash(rtk gh pr list)",
       "Bash(rtk gh pr list *)",
+
       "Bash(gh pr view)",
       "Bash(gh pr view *)",
       "Bash(rtk gh pr view)",
       "Bash(rtk gh pr view *)",
+
       "Bash(gh pr status)",
       "Bash(gh pr status *)",
       "Bash(rtk gh pr status)",
       "Bash(rtk gh pr status *)",
+
       "Bash(gh pr checks)",
       "Bash(gh pr checks *)",
       "Bash(rtk gh pr checks)",
       "Bash(rtk gh pr checks *)",
+
       "Bash(gh issue list)",
       "Bash(gh issue list *)",
       "Bash(rtk gh issue list)",
       "Bash(rtk gh issue list *)",
+
       "Bash(gh issue view)",
       "Bash(gh issue view *)",
       "Bash(rtk gh issue view)",
       "Bash(rtk gh issue view *)",
+
       "Bash(gh repo view)",
       "Bash(gh repo view *)",
       "Bash(rtk gh repo view)",
       "Bash(rtk gh repo view *)",
+
       "Bash(gh run list)",
       "Bash(gh run list *)",
       "Bash(rtk gh run list)",
       "Bash(rtk gh run list *)",
+
       "Bash(gh run view)",
       "Bash(gh run view *)",
       "Bash(rtk gh run view)",
       "Bash(rtk gh run view *)",
+
       "Bash(gh release list)",
       "Bash(gh release list *)",
       "Bash(rtk gh release list)",
       "Bash(rtk gh release list *)",
+
       "Bash(gh release view)",
       "Bash(gh release view *)",
       "Bash(rtk gh release view)",
       "Bash(rtk gh release view *)",
+
       "Bash(gh api)",
       "Bash(gh api *)",
       "Bash(rtk gh api)",
       "Bash(rtk gh api *)",
+
       "Bash(npm ls)",
       "Bash(npm ls *)",
       "Bash(rtk npm ls)",
       "Bash(rtk npm ls *)",
+
       "Bash(npm list)",
       "Bash(npm list *)",
       "Bash(rtk npm list)",
       "Bash(rtk npm list *)",
+
       "Bash(npm info)",
       "Bash(npm info *)",
       "Bash(rtk npm info)",
       "Bash(rtk npm info *)",
+
       "Bash(npm outdated)",
       "Bash(npm outdated *)",
       "Bash(rtk npm outdated)",
       "Bash(rtk npm outdated *)",
+
       "Bash(npm audit)",
       "Bash(npm audit *)",
       "Bash(rtk npm audit)",
       "Bash(rtk npm audit *)",
+
       "Bash(pnpm ls)",
       "Bash(pnpm ls *)",
       "Bash(rtk pnpm ls)",
       "Bash(rtk pnpm ls *)",
+
       "Bash(pnpm list)",
       "Bash(pnpm list *)",
       "Bash(rtk pnpm list)",
       "Bash(rtk pnpm list *)",
+
       "Bash(pnpm info)",
       "Bash(pnpm info *)",
       "Bash(rtk pnpm info)",
       "Bash(rtk pnpm info *)",
+
       "Bash(pnpm outdated)",
       "Bash(pnpm outdated *)",
       "Bash(rtk pnpm outdated)",
       "Bash(rtk pnpm outdated *)",
+
       "Bash(pnpm audit)",
       "Bash(pnpm audit *)",
       "Bash(rtk pnpm audit)",
       "Bash(rtk pnpm audit *)",
+
       "Bash(npm test)",
       "Bash(npm test *)",
       "Bash(npm run test)",
@@ -194,6 +240,7 @@
       "Bash(rtk npm run typecheck *)",
       "Bash(rtk npm run build)",
       "Bash(rtk npm run build *)",
+
       "Bash(pnpm test)",
       "Bash(pnpm test *)",
       "Bash(pnpm run test)",
@@ -227,6 +274,5 @@
       "Bash(rtk pnpm run build)",
       "Bash(rtk pnpm run build *)"
     ]
-  },
-  "effortLevel": "medium"
+  }
 }
