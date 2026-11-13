@@ -14,6 +14,7 @@ scrollback-limit = 10000
 # Cursor
 cursor-style = block
 cursor-style-blink = false
+adjust-cursor-thickness = 2
 
 # Colors (matching the VS Code theme)
 split-divider-color = #b3b9c3
